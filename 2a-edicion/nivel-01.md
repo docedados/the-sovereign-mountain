@@ -11,11 +11,13 @@ Los Goblins están bastante abiertos a negociar y hacer tratos con los personaje
 
 ## Conexiones con otros niveles
 
-* Sala 0: lleva al [exterior de la Montaña](./05-exterior.md).
-* Sala 5: Conecta con la [sala 5 del nivel 2](./nivel-02.md).
-* Sala 7: conecta con la [sala 1 del nivel 3](./nivel-03.md): La boca del Dragón.
-* Salida al Sureste (entre las salas 4 y 13): desemboca en el [Gran pasaje del nivel 4](./nivel-04.md).
-* Sala 11: tiene una trampilla oculta a la [sala 9 del nivel inferior: el nivel 2](./nivel-02.md).
+| Sala | Conexión |
+|:--:|:--|
+| 0 | Lleva al [exterior de la Montaña](./05-exterior.md). |
+| 5 | Conecta con la [sala 5 del nivel 2](./nivel-02.md). |
+| 7 | Conecta con la [sala 1 del nivel 3](./nivel-03.md): La boca del Dragón. |
+| Salida al sureste (entre las salas 4 y 13) | Desemboca en el [Gran pasaje del nivel 4](./nivel-04.md). |
+| 11 | Tiene una trampilla oculta a la [sala 9 del nivel inferior: el nivel 2](./nivel-02.md). |
 
 ## Las tres facciones de Goblins
 
@@ -81,12 +83,14 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
 
    En el centro de esta sala de bóveda alta y arqueada se encuentra la Piedra Filosofal, una pequeña piedra negra de un peso tal que es imposible levantarla y sacarla de la habitación. La Piedra Filosofal es mágica, y se dice que puede convertir el plomo en oro, curar todas las dolencias y maldiciones, y devolver la juventud. Que alguna o todas estas capacidades sean reales o no depende del DJ. Dado que las tres facciones de Goblins pelean por controlar esta sala, en un momento dado la sala estará ocupada por (tirar 1d6):
 
-	1. Realistas
-	2. Egalitarios
-	3. Deterministas
-	4. Realistas vs. Egalitarios
-	5. Realistas vs. Deterministas
-	6. Egalitarios vs. Deterministas
+   | 1d6 | Ocupantes |
+   |:--:|:--|
+   | 1 | Realistas |
+   | 2 | Egalitarios |
+   | 3 | Deterministas |
+   | 4 | Realistas vs. Egalitarios |
+   | 5 | Realistas vs. Deterministas |
+   | 6 | Egalitarios vs. Deterministas |
 
    Cada bando que esté presente contará con 1d12+6 guerreros Goblin, que se concentrarán en las otras tribus de Goblins (si están presentes) e ignorarán a los aventureros, salvo que estos intenten acercarse a la Piedra Filosofal.
 
