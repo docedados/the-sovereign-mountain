@@ -1,0 +1,25 @@
+{
+  "title": "La Montaña Soberana",
+  "language": "es-ES",
+  "style": { "preset": "adnd1e" },
+  "files": {
+    "content": [
+      "2a-edicion/01-prefacio.md",
+      "2a-edicion/02-introduccion.md",
+      "2a-edicion/piedrainerte.md",
+      "2a-edicion/camino.md",
+      "2a-edicion/exterior.md",
+      "2a-edicion/nivel-01.md",
+      "2a-edicion/nivel-02.md",
+      "2a-edicion/nivel-03.md",
+      "2a-edicion/nivel-04.md",
+      "2a-edicion/nivel-05.md",
+      "2a-edicion/nivel-06.md",
+      "2a-edicion/nivel-07.md",
+      "2a-edicion/nivel-08.md",
+      "2a-edicion/nivel-09.md",
+      "2a-edicion/licencia.md"
+    ],
+    "assets": ["2a-edicion/img/*"]
+  }
+}
