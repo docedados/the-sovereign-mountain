@@ -5,8 +5,9 @@
   "chapterHeadings": true,
   "files": {
     "content": [
-      "2a-edicion/01-prefacio.md",
-      "2a-edicion/02-introduccion.md",
+      "2a-edicion/prefacio.md",
+      "2a-edicion/autoria.md",
+      "2a-edicion/introduccion.md",
       "2a-edicion/piedrainerte.md",
       "2a-edicion/camino.md",
       "2a-edicion/exterior.md",
