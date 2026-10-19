@@ -130,7 +130,7 @@ En la estancia hay un par de estatuas de dracos (las mascotas de Ludovico) en la
 
 Si se destruyen las dos la puerta de la cripta se abre.
 
-La única manera de evitar el ataque es recitar unas palabras mágicas que pueden estar en algún otro nivel del megadúngeon, en un lugar difícil o portar algún atuendo.
+La única manera de evitar el ataque es recitar unas palabras mágicas que pueden estar en algún otro nivel de la megamazmorra, en un lugar difícil o portar algún atuendo.
 
 ### 11. Cripta de Ludovico
 

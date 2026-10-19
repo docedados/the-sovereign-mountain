@@ -18,7 +18,7 @@ Una última advertencia para quienes piensen adentrarse en ella: la mayoría de 
 
 ## Cómo usar esta aventura
 
-La Montaña Soberana es un megadungeon: un complejo de niveles conectados entre sí que los personajes pueden explorar en el orden que prefieran. El libro se organiza de la siguiente manera:
+La Montaña Soberana es una megamazmorra (_megadungeon_ en inglés): un complejo de niveles conectados entre sí que los personajes pueden explorar en el orden que prefieran. El libro se organiza de la siguiente manera:
 
 * **Piedrainerte**: el pueblo más cercano a la Montaña. Sirve como lugar de descanso antes de la expedición y para recuperarse entre incursiones, e incluso para asentarse en él.
 * **El camino hasta la Montaña**: el viaje de un par de días desde los asentamientos cercanos, con rumores que los personajes pueden haber oído y percances que pueden sufrir por el camino.
