@@ -29,9 +29,38 @@ Esta maldición hace que cualquiera que quiera construir una casa fuera del per�
 
 Para poder llegar a decir que una de las casas vacías está siendo habitada, han de pasar más de cuatro días seguidos viviendo en ella, además de deshacer el petate y dejar cosas dentro. Con dejar el propio petate dentro, la maldición se puede activar. Esto es bien conocido por los piedrainerteños y actualmente hay seis casas deshabitadas, pero no quieren llegar a tener problemas con la maldición y eso hace que el alguacil sea especialmente adusto con los forasteros y todos los habitantes inviten a vivir fuera del pueblo a los aventureros que quieran asentarse mientras estén explorando la montaña y siempre que la posada esté llena. No suelen dejar vivir a nadie dentro de las casas deshabitadas a no ser que lo acepten ellos.
 
+## Casas y edificios
+
+::: striped
+| Mapa | Edificio | Quién vive o lo regenta |
+|:--:|:--|:--|
+| 1 | Templo | Hermano Tom |
+| 2 | Gran Fonda | Kipi y Kape |
+| 3 | Cárcel | Hernest (alguacil) |
+| 4 | Hierbas y Pócimas (herbolario) | Fistandanfi |
+| 5 | La Carreta Rota (almacén) | Arcenas |
+| 6 | Herrería | Filint, que vive en ella |
+| 7 | Las seis casas deshabitadas | Nadie |
+| 8 | Vieja posada | — |
+| 9 | Taberna | Freddy |
+| 10 | Torre-biblioteca | Cerrada |
+| a | Casa | Los Etnam, familia de medianos |
+| b | Casa | Los Farrow |
+| c | Casa | Hernest y Hemin Guay |
+| d | Casa | Fistandanfi |
+| e | Casa | Arcenas |
+| f | Mansión | Eyvilin |
+| g | Casa | Los Pitete |
+| h | Casa | Julay |
+| i | Casa | Hermano Tom |
+| j | Casa | Freddy |
+:::
+
+Los puntos negros que rodean el pueblo en el mapa son los hitos que marcan su perímetro. La Torre Mística queda fuera del mapa, a pocos kilómetros al norte.
+
 ## El pueblo
 
-Y en torno al eje formado por estos dos edificios y la nueva fonda (2), se distribuye todo el pueblo. Los puntos negros que se ven en el mapa, son los hitos que delimitan el espacio de Piedrainerte.
+Y en torno al eje formado por estos dos edificios y la nueva fonda (2), se distribuye todo el pueblo.
 
 En la parte norte de este eje, se puede ver un conjunto de dos edificios con un patio amurallado, es la Cárcel (3), el lugar donde se recluyen a los reos y se imparte justicia. Detrás de estos edificios se encuentran las seis casas deshabitadas (7), en perfecto estado y cerca está a vieja posada (8). Al lado del templo y cercano a la salida del pueblo por el este hay una casa grande, es el herbolario (4), la tienda de pócimas y hiervas donde hay ungüentos, cataplasmas, pócimas y pastelitos que sirven para prácticamente toda dolencia.
 
