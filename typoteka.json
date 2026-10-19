@@ -2,6 +2,7 @@
   "title": "La Montaña Soberana",
   "language": "es-ES",
   "style": { "preset": "adnd2e" },
+  "chapterHeadings": true,
   "files": {
     "content": [
       "2a-edicion/01-prefacio.md",
