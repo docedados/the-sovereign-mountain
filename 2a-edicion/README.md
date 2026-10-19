@@ -1,8 +1,9 @@
 
 ## Índice
 
- * [Prefacio](./01-prefacio.md)
- * [Introducción](./02-introduccion.md)
+ * [Prefacio](./prefacio.md)
+ * [Autoría](./autoria.md)
+ * [Introducción](./introduccion.md)
  * [Piedrainerte](./piedrainerte.md), por Sergio Somalo "Tremandur"
  * [El camino hasta la Montaña](./camino.md), por Bester
  * [El exterior de la Montaña](./exterior.md), por Bester
