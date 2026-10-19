@@ -3,20 +3,20 @@
 
  * [Prefacio](./01-prefacio.md)
  * [Introducción](./02-introduccion.md)
- * [Piedrainerte](./03-piedrainerte.md), por Sergio Somalo "Tremandur"
- * [El camino hasta la Montaña](./04-camino.md), por Bester
- * [El exterior de la Montaña](./05-exterior.md), por Bester
- * [Nivel 1: Filosofías enfrentadas](./06-nivel-01.md), por Rodrigo García Carmona
- * [Nivel 2: Sucios, sucios, sucios](./07-nivel-02.md), por Jacobo Peña
- * [Nivel 3: El Dragón](./08-nivel-03.md), por José Manuel Palacios
- * [Nivel 4: Aire Irisado](./09-nivel-04.md), por Erekíbeon
- * [Nivel 5: Hobgoblins y micónidos](./10-nivel-05.md), por Carlos de la Cruz
- * [Nivel 6: El depósito del hechicero](./11-nivel-06.md), por Jose Carlos Domínguez "Kha"
- * [Nivel 7: El laberinto de Kramaghar](./12-nivel-07.md), por Héctor Prieto de la Calle 
- * [Nivel 8: La cripta del rey Ludovico](./13-nivel-08.md), por Bester
- * [Nivel 9: La cima](./14-nivel-09.md), por Carlos de la Cruz
- * [Registro de cambios](.changelog.md)
- * [Licencia](./98-licencia.md) de uso del texto
+ * [Piedrainerte](./piedrainerte.md), por Sergio Somalo "Tremandur"
+ * [El camino hasta la Montaña](./camino.md), por Bester
+ * [El exterior de la Montaña](./exterior.md), por Bester
+ * [Nivel 1: Filosofías enfrentadas](./nivel-01.md), por Rodrigo García Carmona
+ * [Nivel 2: Sucios, sucios, sucios](./nivel-02.md), por Jacobo Peña
+ * [Nivel 3: El Dragón](./nivel-03.md), por José Manuel Palacios
+ * [Nivel 4: Aire Irisado](./nivel-04.md), por Erekíbeon
+ * [Nivel 5: Hobgoblins y micónidos](./nivel-05.md), por Carlos de la Cruz
+ * [Nivel 6: El depósito del hechicero](./nivel-06.md), por Jose Carlos Domínguez "Kha"
+ * [Nivel 7: El laberinto de Kramaghar](./nivel-07.md), por Héctor Prieto de la Calle 
+ * [Nivel 8: La cripta del rey Ludovico](./nivel-08.md), por Bester
+ * [Nivel 9: La cima](./nivel-09.md), por Carlos de la Cruz
+ * [Registro de cambios](./changelog.md)
+ * [Licencia](./licencia.md) de uso del texto
 
 ## Autores
 

@@ -52,7 +52,7 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
    En cuanto los PJs se muevan notarán que aquí dejan una especie de estela de colores en el aire, como si estuvieran sumergidos en un aceite invisible. Cuanto más rápido el movimiento, más intensos los colores irisados de la estela que se formará. Esta estela es la señal de que acaban de entrar en la atmósfera que hace posible la existencia de las extrañas criaturas que han invadido este nivel. Es perfectamente respirable, pero es un poco más densa y contiene algunos gases mezclados que se hacen visibles cuando se alteran súbitamente. Sin embargo no resiste el contacto con humedad o con agua, con lo que cualquier nube o cortinilla de agua puede servir para que no se propague más allá.
 
-   Estaría bien que el máster incida sobre esta estela que produce cualquier movimiento siempre que pueda, ya que es una característica de todo el nivel. Además, la estela hace muy difícil pasar desapercibido, a menos que los movimientos sean exageradamente lentos. Esto funciona en contra y a favor de los PJs, ya que también hará muy sencillo avistar cualquier movimiento a lo lejos... siempre que haya luz para ver los colores, claro.
+   Estaría bien que el DJ incida sobre esta estela que produce cualquier movimiento siempre que pueda, ya que es una característica de todo el nivel. Además, la estela hace muy difícil pasar desapercibido, a menos que los movimientos sean exageradamente lentos. Esto funciona en contra y a favor de los PJs, ya que también hará muy sencillo avistar cualquier movimiento a lo lejos... siempre que haya luz para ver los colores, claro.
 
 3. **Las flores ácidas**
 
@@ -181,7 +181,7 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
    **Rasgos de los Conformistas**
 
-   Todos, sin importar la raza, se muestran amistosos y muy curiosos, sobre todo con las armas, armaduras y vestimentas, que no han visto antes jamás. Pese a cecear en común, como Ojoz Azulez, utilizan palabras muy cultivadas y desconocen los tacos. “Albriciaz” o “cázpita” son lo más soez para ellos. Al igual que Ojoz Azulez, todos hablan el común ceceando. No saben que son de razas distintas, así que no saben que son “humanos” “orcos” o “gnolls”, y sus nombres hacen referencia a alguna característica física que les distinga de los demás. Morro Ancho (una orca), Pequeño Rojizo (un kobold), Pelo Amarillo (una elfa), Oreja Mellada (el gnoll), cosas así. El Máster debería enfatizar lo extraño que es ver un orco, un elfo y un humano departiendo tan amigablemente.
+   Todos, sin importar la raza, se muestran amistosos y muy curiosos, sobre todo con las armas, armaduras y vestimentas, que no han visto antes jamás. Pese a cecear en común, como Ojoz Azulez, utilizan palabras muy cultivadas y desconocen los tacos. “Albriciaz” o “cázpita” son lo más soez para ellos. Al igual que Ojoz Azulez, todos hablan el común ceceando. No saben que son de razas distintas, así que no saben que son “humanos” “orcos” o “gnolls”, y sus nombres hacen referencia a alguna característica física que les distinga de los demás. Morro Ancho (una orca), Pequeño Rojizo (un kobold), Pelo Amarillo (una elfa), Oreja Mellada (el gnoll), cosas así. El DJ debería enfatizar lo extraño que es ver un orco, un elfo y un humano departiendo tan amigablemente.
 
    Eso sí, un personaje con una Sabiduría muy alta descubrirá que tienen una sombra en la mirada. Casi como si se sintieran culpables por algo... (ver más adelante)
 
@@ -191,7 +191,7 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
    **La llegada de los Dorados**
 
-   En cuanto el DM considere que ha pasado suficiente tiempo, entran por la cascada dos figuras metálicas y de color dorado, de 1,50 de altura, bellamente esculpidas como seres antropomorfos de raza indefinida. No hablan ni se comunican con nadie. Portan un cofre hermético enorme (similar al Arca de la Alianza de Indiana Jones), que colocarán en el centro de la sala, después de lo cual volverán junto a la cascada y esperarán. El cofre contiene 5 bandejas tapadas con comida recién hecha y humeante: carnes asadas, pescados, verduras... en general platos no muy elaborados pero sabrosos, suficientes para hacer una comida normal de 5 personas.
+   En cuanto el DJ considere que ha pasado suficiente tiempo, entran por la cascada dos figuras metálicas y de color dorado, de 1,50 de altura, bellamente esculpidas como seres antropomorfos de raza indefinida. No hablan ni se comunican con nadie. Portan un cofre hermético enorme (similar al Arca de la Alianza de Indiana Jones), que colocarán en el centro de la sala, después de lo cual volverán junto a la cascada y esperarán. El cofre contiene 5 bandejas tapadas con comida recién hecha y humeante: carnes asadas, pescados, verduras... en general platos no muy elaborados pero sabrosos, suficientes para hacer una comida normal de 5 personas.
 
    Los habitantes cuchichean entre sí, quejándose de que tendrán que repartirse la comida y quedará muy poco para cada uno, insuficiente para calmar el hambre. Hay miradas de suspicacia hacia los PJs, por si ellos también quieren una parte, mientras se reparten pacíficamente las escasas raciones. Si los aventureros comparten su comida serán festejados por todo lo alto. 
 
@@ -366,9 +366,9 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
     Contarán como sorprendidos si se les ataca. Sus estadísticas, las de los gusanos carroñeros, con el tema de la vulnerabilidad al agua y ácido en lugar de parálisis.
 
-    Si intentan comunicarse, cogerán una ramita y se pondrán a dibujar en el suelo terroso. El Máster debería intentar comunicarse con los jugadores sólo a base de dibujos, en plan Pictionary, y obligar a los jugadores a hacer lo mismo cuando intenten comunicarse con los gusanos, ya que no entienden el idioma. Pero son bastante listos, así que entenderán lo que quieren decir los aventureros bastante rápido, independientemente de los monigotes que sean capaces de dibujar los jugadores.
+    Si intentan comunicarse, cogerán una ramita y se pondrán a dibujar en el suelo terroso. El DJ debería intentar comunicarse con los jugadores sólo a base de dibujos, en plan Pictionary, y obligar a los jugadores a hacer lo mismo cuando intenten comunicarse con los gusanos, ya que no entienden el idioma. Pero son bastante listos, así que entenderán lo que quieren decir los aventureros bastante rápido, independientemente de los monigotes que sean capaces de dibujar los jugadores.
 
-    Las preguntas de los gusanos son difíciles de expresar en dibujos... pero así el máster conseguirá reflejar lo difícil que es la comunicación y los vericuetos de unas mentes alienígenas.
+    Las preguntas de los gusanos son difíciles de expresar en dibujos... pero así el DJ conseguirá reflejar lo difícil que es la comunicación y los vericuetos de unas mentes alienígenas.
 
     Lo que quieren decir los gusanos:
 
@@ -379,7 +379,7 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
     * ¿Venís de una zona sin agua?
     * ¿Podéis enseñarnos por dónde habéis venido?
 
-    Recuerda, máster, nada de hablar :-P Hazlo lo mejor que puedas, pero recuerda que no es imprescindible para la aventura el que te entiendan. 
+    Recuerda, DJ, nada de hablar :-P Hazlo lo mejor que puedas, pero recuerda que no es imprescindible para la aventura el que te entiendan. 
 
     No se opondrán a que vayan a la zona 20 y de hecho les seguirán con curiosidad. A menos que les hayan atacado, en cuyo caso sí intentarán detenerles.
 
@@ -436,7 +436,7 @@ El complejo está iluminado también por los huesos de luz azulados descritos en
 
     La detallada boca del muñegote es en realidad una Boca Mágica hecha Permanente. Su única función es gritar cada ocho horas con voz femenina una sola letra: “A“. Es la palabra de mando de las Cornucopias, con lo que cada vez que se pronuncia la comida aparece en las cestas. Inmediatamente después aparecen los golems dorados con los cofres herméticos, los llenan con la comida de las cestas y abandonan la sala para dirigirse a los enclaves de los supervivientes. No vuelven aquí hasta que no pasen otras ocho horas.
 
-    El Hechicero pensó que las Cornucopias iban a estar en un complejo donde sólo habría golems sin voz y por eso no se complicó la vida cuando decidió la palabra de mando. Pero... ¿qué pasará si alguien se pone a hablar al lado de las cestas? Pues que el máster tendrá que contar cuántas “aes” se pronuncian en la habitación. Con la segunda “a” las tapas de las cestas se abren, la tercera “a” hace que las raciones se desparramen por el suelo. Con 6 “aes” la comida llega por las rodillas de un humano normal, con 9 por el pecho y con 12 se llena la habitación y empieza a derramarse por los pasillos
+    El Hechicero pensó que las Cornucopias iban a estar en un complejo donde sólo habría golems sin voz y por eso no se complicó la vida cuando decidió la palabra de mando. Pero... ¿qué pasará si alguien se pone a hablar al lado de las cestas? Pues que el DJ tendrá que contar cuántas “aes” se pronuncian en la habitación. Con la segunda “a” las tapas de las cestas se abren, la tercera “a” hace que las raciones se desparramen por el suelo. Con 6 “aes” la comida llega por las rodillas de un humano normal, con 9 por el pecho y con 12 se llena la habitación y empieza a derramarse por los pasillos
 
     **Ejemplo:**
 
@@ -464,7 +464,7 @@ El complejo está iluminado también por los huesos de luz azulados descritos en
 
     Y es que todos los especímenes que el Hechicero se traía eran los peores criminales violentos de cada especie...
 
-    Si en algún momento se rompe una de las figurillas, todos los recuerdos vuelven a la mente original. Los sujetos que recuperen sus recuerdos recuperarán también sus conocimientos y sus actitudes originales, pero lo que ocurra a partir de entonces se deja en manos del Máster.  Tal vez prefiera que el sujeto “despertado” mate a sangre fría a gran parte de sus compañeros, o tal vez disimule para intentar pillar por sorpresa a los aventureros, o quizás se limite a intentar escapar del experimento para no volver... lo que le venga mejor en función del drama que quiera desarrollar o de cómo vea a sus jugadores.
+    Si en algún momento se rompe una de las figurillas, todos los recuerdos vuelven a la mente original. Los sujetos que recuperen sus recuerdos recuperarán también sus conocimientos y sus actitudes originales, pero lo que ocurra a partir de entonces se deja en manos del DJ.  Tal vez prefiera que el sujeto “despertado” mate a sangre fría a gran parte de sus compañeros, o tal vez disimule para intentar pillar por sorpresa a los aventureros, o quizás se limite a intentar escapar del experimento para no volver... lo que le venga mejor en función del drama que quiera desarrollar o de cómo vea a sus jugadores.
 
     Tesoro:
 
@@ -528,7 +528,7 @@ El complejo está iluminado también por los huesos de luz azulados descritos en
     * El inicio de la invasión extraplanar: hace tres años. Lo primero que ocurrió fue un agujero en el techo, del que cayó el árbol zancudo cuando era chiquitín. También se refleja el descubrimiento de que el agua los mata. 
     * Cuándo dejó de funcionar el teleportador: Hace dos años y medio. Ver la siguiente numeración para ver el motivo. 
 
-    Los archivos también incluyen prácticamente toda la información relativa al nivel: el suceso que escindió a los supervivientes, la ubicación actual de todos los monstruos y las guaridas... incluso el propio avance de los aventureros y lo que han hecho aquí. En definitiva, es como tener acceso a la misma información que tiene el máster... siempre que se hagan las preguntas adecuadas, claro.
+    Los archivos también incluyen prácticamente toda la información relativa al nivel: el suceso que escindió a los supervivientes, la ubicación actual de todos los monstruos y las guaridas... incluso el propio avance de los aventureros y lo que han hecho aquí. En definitiva, es como tener acceso a la misma información que tiene el DJ... siempre que se hagan las preguntas adecuadas, claro.
 
 27. **El interruptor del teleportador**
 

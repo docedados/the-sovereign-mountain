@@ -26,9 +26,9 @@ Junto a la gran vidriera desde la que se puede ver (pero no ser visto) gran part
 
 En el centro hay una estatua de Ludovico desnudo, con corona, cetro y un gran reloj solar colgando de una cadena en el cuello. Así le gustaba verse, exhibiendo con orgullo su cuerpo (nada destacable, por cierto, pero ya se sabe cómo es la megalomanía). La estatua es una estatua viviente. Cuando los pjs aparezcan, su rostro cobrará vida y empezará hablar interrogándoles por su origen e  intenciones, desanimándoles en su tarea y aconsejándoles con ironía que se dediquen a otra cosa y se marchen. Conversar con la estatua de Ludovico es peligroso y cualquiera que escuche sus palabras y conteste deberá superar una prueba de voluntad de dificultad media para resistir su influjo y de dificultad baja en caso de solo haberle escuchado. Un fallo en la tirada hará que el desánimo invada al pj y tenga que marcharse del nivel no viéndose capáz de internarse en la tumba y no pudiendo volver a intentar el asalto a la tumba hasta que haya pasado un día entero al menos.
 
-La estatua puede ser silenciada derribándola de su pedestal. Caerá y se hará pedazos con una prueba de Fuerza de dificultad alta. El corazón de la estatua es una gema valiosa imbuida que puede servir para animar otras estatuas o constructos a discreción del DM.
+La estatua puede ser silenciada derribándola de su pedestal. Caerá y se hará pedazos con una prueba de Fuerza de dificultad alta. El corazón de la estatua es una gema valiosa imbuida que puede servir para animar otras estatuas o constructos a discreción del DJ.
 
-Las puertas de oro de esta estancia conducen a la sala anexa.  Unas escaleras conducen a la salida del nivel 6 (en caso de que el misterio del Laberinto de Khagramar no haya sido descubierto, ésta escalera está cegada y acaba en un muro infranqueable de naturaleza mágica que solo desaparece en caso de encontrar la vara y la piedra del nivel 6) y las otras al nivel 4.
+Las puertas de oro de esta estancia conducen a la sala anexa.  Unas escaleras conducen a la salida del nivel 6 (en caso de que el misterio del Laberinto de Kramaghar no haya sido descubierto, ésta escalera está cegada y acaba en un muro infranqueable de naturaleza mágica que solo desaparece en caso de encontrar la vara y la piedra del nivel 6) y las otras al nivel 4.
 
 ### 2. Harén ilusorio
 
@@ -48,7 +48,7 @@ Como su nombre indica esta estancia es un lago artificial creado por los ingenie
 
 Un ingenio en el techo hace imposible el vuelo por la sala. Un mecanismo de succión mágico hace que cualquier objeto que intente nadar o surcar el lago sea absorbido y desaguado hasta el nivel de las cloacas de la Montaña soberana.
 
-A discreción del DM unas trampas que disparan flechas pueden darle más emoción al asunto cuando los pjs se monten en las plataformas o el mecanismo de succión puede ser sustituido por algún gran pez carnívoro. En el fondo del lago hay infinidad de cuerpos y restos para aquellos que quieran aventurarse o tengan los medios para hacerlo.
+A discreción del DJ unas trampas que disparan flechas pueden darle más emoción al asunto cuando los pjs se monten en las plataformas o el mecanismo de succión puede ser sustituido por algún gran pez carnívoro. En el fondo del lago hay infinidad de cuerpos y restos para aquellos que quieran aventurarse o tengan los medios para hacerlo.
 
 ### 4. Gran pasillo
 

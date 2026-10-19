@@ -14,7 +14,7 @@ Los Goblins están bastante abiertos a negociar y hacer tratos con los personaje
 ::: striped
 | Sala | Conexión |
 |:--:|:--|
-| 0 | Lleva al [exterior de la Montaña](./05-exterior.md) |
+| 0 | Lleva al [exterior de la Montaña](./exterior.md) |
 | 5 | Conecta con la [sala 5 del nivel 2](./nivel-02.md) |
 | 7 | Conecta con la [sala 1 del nivel 3](./nivel-03.md): La boca del Dragón |
 | Salida al sureste (entre las salas 4 y 13) | Desemboca en el [Gran pasaje del nivel 4](./nivel-04.md) |

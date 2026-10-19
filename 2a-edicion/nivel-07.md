@@ -48,7 +48,7 @@ Hemos añadido los mapas de las salas más importantes, quedan excluidos los de 
 
 Las escaleras que proceden del nivel anterior acaban en una amplia sala con las paredes bellamente decoradas con imágenes de héroes míticos. Las teselas que crean los hermosos mosaicos, reflejan la luz de las antorchas y dan la impresión que las imágenes se mueven al compás de las llamas.
 
-Estos reflejos despistarán a los Pj’s, que deberán superar una prueba de concentración. Si no lo logran, reciben un penalizador de -1 a sus tiradas durante 5 turnos y no serán capaces de escoger, de manera autónoma, una salida de esta sala. En su lugar, el DM escoge una puerta por la que saldrán (en términos de juego, en lugar de lanzar el dado, el DM escoge directamente la sala a la que irán los Pj’s). Si además, los Pj’s fallan la tirada por más de la mitad de su concentración, creerán ver en sus compañeros a un enemigo, por lo que les atacarán durante tantos turnos como la puntuación por la que hayan fallado la tirada.
+Estos reflejos despistarán a los Pj’s, que deberán superar una prueba de concentración. Si no lo logran, reciben un penalizador de -1 a sus tiradas durante 5 turnos y no serán capaces de escoger, de manera autónoma, una salida de esta sala. En su lugar, el DJ escoge una puerta por la que saldrán (en términos de juego, en lugar de lanzar el dado, el DJ escoge directamente la sala a la que irán los Pj’s). Si además, los Pj’s fallan la tirada por más de la mitad de su concentración, creerán ver en sus compañeros a un enemigo, por lo que les atacarán durante tantos turnos como la puntuación por la que hayan fallado la tirada.
 
 Las teselas que se encuentran en esta sala son:
 
@@ -118,7 +118,7 @@ La salida de esta sala se encuentra marcada en el mapa.
 
 Entrar en esta sala supone dejar atrás las convencionalidades de adelante y detrás, pues para avanzar, los Pj’s deberán caminar hacia atrás (avanzando de espaldas). La estructura de la sala consiste en un alargado pasillo de 5 metros de ancho y más de 50 de largo; esto podría no ser más que un inconveniente, pero Kramaghar colocó aquí trampas mágicas. Así, bolas de fuego, flechas envenenadas y caídas de piedra, están repartidas al azar por todo el pasillo; a eso, sumado un hechizo de alteración, hace que las trampas varíen de posición de una vez a otra que se entra en la sala.
 
-Muchos han sido los aventureros que han muerto en esta sala, y sus pertenencias están diseminadas por la estancia; pudiendo encontrarse ropas, armas, cuerdas, antorchas… pero todas en pésimas condiciones. Lo que sí podrán encontrar en un estado “decente”, son varios pergaminos con hechizos [de nivel 1 y 2, queda a discreción del Narrador disponer los conjuros que encuentran] y un dibujo de la Vara de Lapislázuli y la piedra que lleva engarzada.
+Muchos han sido los aventureros que han muerto en esta sala, y sus pertenencias están diseminadas por la estancia; pudiendo encontrarse ropas, armas, cuerdas, antorchas… pero todas en pésimas condiciones. Lo que sí podrán encontrar en un estado “decente”, son varios pergaminos con hechizos [de nivel 1 y 2, queda a discreción del DJ disponer los conjuros que encuentran] y un dibujo de la Vara de Lapislázuli y la piedra que lleva engarzada.
 
 ### Sala 7: El trono de las 100 piedras
 
@@ -138,7 +138,7 @@ Durante el tiempo que Kramaghar ha pasado en este laberinto, le ha dado tiempo a
 
 Cuando los Pj's abran la puerta, decenas de libros caerán sobre ellos. Todos están tirados por el suelo creando montañas; algunos abiertos, otros cerrados, pero todos ocultando el suelo y el auténtico peligro que mora allí: pues la magia caótica del mago ha alcanzado los libros y ha liberado a varias de las criaturas que se detallan en sus páginas. 
 
-Las armas, o los hechizos, no harán daño alguno a estas criaturas literarias. En su lugar, para combatirlas, los Pj's deberán emplear las palabras, y ejecutar rimas para afectarlas. Por cada rima que consigan, la criatura sufrirá 1 PdG; así, si un Pj consigue encadenar un cuarteto (rima de 4 estrofas), la criatura sufriría 4 PdG. Las criaturas, sin embargo, atacarán de manera normal... [queda a discreción del Narrador decidir qué criaturas habitan esta sala, pero recomendamos muchas criaturas de pocos PdG antes que pocas de muchos PdG].
+Las armas, o los hechizos, no harán daño alguno a estas criaturas literarias. En su lugar, para combatirlas, los Pj's deberán emplear las palabras, y ejecutar rimas para afectarlas. Por cada rima que consigan, la criatura sufrirá 1 PdG; así, si un Pj consigue encadenar un cuarteto (rima de 4 estrofas), la criatura sufriría 4 PdG. Las criaturas, sin embargo, atacarán de manera normal... [queda a discreción del DJ decidir qué criaturas habitan esta sala, pero recomendamos muchas criaturas de pocos PdG antes que pocas de muchos PdG].
 
 Sobre la puerta de entrada hay una placa que dice: Si vencer quieres / pelear no debes / pues si aquello hicieres / y el acero usares / ni dañarías, ni vencerías y muerto terminarías. Habla pues, amigo héroe, que la palabra escrita es fuerte, la dicha es potente y tu victoria, así, será inminente.
 

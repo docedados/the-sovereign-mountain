@@ -16,15 +16,15 @@ En un ataque de lucidez, Azur se dió cuenta de que el tamaño de Shamarakan era
 ![](./img/nivel-03.png)
 
 ## Conexiones con otros niveles
-* Zona 1: la Boca conecta con un túnel que se divide en dos, por lado derecho conduce a la [sala 7 del nivel 1](./nivel-01.md) y por el otro a una salida oculta en un lateral de la Montaña en [el exterior](./05-exterior.md).
+* Zona 1: la Boca conecta con un túnel que se divide en dos, por lado derecho conduce a la [sala 7 del nivel 1](./nivel-01.md) y por el otro a una salida oculta en un lateral de la Montaña en [el exterior](./exterior.md).
 * Zona 4: hay unas escalerillas que conectan con la [sala 17 del nivel 2](./nivel-02.md) y también hay una trampa que conduce a la [sala 2 del nivel 2](./nivel-02.md).
-* Zona 5: hay una conexión con la entrada al [nivel 7](./nivel-07.md), El laberinto de Khagramar, en la sala 1.
+* Zona 5: hay una conexión con la entrada al [nivel 7](./nivel-07.md), El laberinto de Kramaghar, en la sala 1.
 
 ## Zona 1: La Boca
 
 ### El Pozo de Shamarakan
 
-Hay un largo túnel antes de acceder a esta sala. El túnel se divide en dos, por un lado desemboca en [el exterior de la Montaña](./05-exterior.md), en una salida muy difícil de encontrar desde el exterior y que solo conocen los hombres lagarto, mientras que el otro lado desemboca en una masa palpitante completamente opaca de color negro del tamaño de un hombre que solo puede ser atravesada desde el [nivel 1 en la sala 7](./nivel-01.md), pero no en sentido contrario. Ni la luz ni el sonido pueden traspasarla, en ningún sentido. 
+Hay un largo túnel antes de acceder a esta sala. El túnel se divide en dos, por un lado desemboca en [el exterior de la Montaña](./exterior.md), en una salida muy difícil de encontrar desde el exterior y que solo conocen los hombres lagarto, mientras que el otro lado desemboca en una masa palpitante completamente opaca de color negro del tamaño de un hombre que solo puede ser atravesada desde el [nivel 1 en la sala 7](./nivel-01.md), pero no en sentido contrario. Ni la luz ni el sonido pueden traspasarla, en ningún sentido. 
 
 ### La Boca
 

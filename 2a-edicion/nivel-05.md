@@ -97,7 +97,7 @@ Sareb tiene una Daga +2, +3 contra Hombres Bestia.
 
 Esta cueva tiene tres salidas. Las salidas norte y oeste. La salida oeste lleva a la sala 4 del  nivel de las alcantarillas. La salida norte  conduce al nivel 1, en su salida por el suroeste del mapa entre las salas 4 y 13, de donde suelen llegar grupos de gente dispuesta a comerciar. La salida del sur lleva al Templo de Bargulis. En el centro de esta cueva hay un gran foso del que no se puede ver el fondo, y del que, cada cierto tiempo, surgen monstruos.
 
-Si algún aventurero arroja algún tipo de objeto al foso, llamará la atención de los seres que allí moran. El Dungeon Master deberá hacer una tirada para determinar si alguno de ellos sube a investigar:
+Si algún aventurero arroja algún tipo de objeto al foso, llamará la atención de los seres que allí moran. El DJ deberá hacer una tirada para determinar si alguno de ellos sube a investigar:
 
 ```
 Tirada (1d6) Monstruo
@@ -124,7 +124,7 @@ Si alguien intenta tocar el Sarcófago, la Sombra de Bargulis baja del techo y a
 
 Si alguien mira en el interior del Sarcófago, verá al Dios Bargulis, que habita en el interior. Si no pasa una tirada de salvación contra hechizo, se quedará inmóvil, incapaz de articular palabra o hacer ningún movimiento, cautivado por su belleza. Por supuesto, la música seguirá sonando y aumentando en intensidad.
 
-Si los aventureros están aquí en día de mercado, habrá 1d6 bugbear en la sala, 1d3 enanos y 2d10 hobgoblins. Además, puede haber representantes de otras regiones de la Montaña. El Dungeon Master debe tirar 1d6 para saber el número de grupos que han viajado hasta el mercado. Para saber la identidad de cada grupo, el Director de Juego debe tirar en la siguiente tabla:
+Si los aventureros están aquí en día de mercado, habrá 1d6 bugbear en la sala, 1d3 enanos y 2d10 hobgoblins. Además, puede haber representantes de otras regiones de la Montaña. El DJ debe tirar 1d6 para saber el número de grupos que han viajado hasta el mercado. Para saber la identidad de cada grupo, el DJ debe tirar en la siguiente tabla:
 
 ```
 Tirada (1d10)           
@@ -150,7 +150,7 @@ Este es el Templo del Dios Bargulis, Señor del Comercio y el Intercambio Fruct�
 
 Esta sala rectangular está flanqueada por varias columnas a cada lado. La sala no está nunca iluminada y eso hace complicado ver las pequeñas puertas detrás de las columnas que llevan a las habitaciones de los enanos.
 
-Cuando los personajes entren en la sala, el Dungeon Master debe tirar 1d6:
+Cuando los personajes entren en la sala, el DJ debe tirar 1d6:
 
 * Con un 1, uno de los enanos estará en el vestíbulo, pasando de la sala 4 a la 7 o viceversa. El enano lleva una pequeña lámpara de aceite para iluminarse.
 * Con un 2, el enano Oin estará examinando los relieves de las puertas que llevan a la sala 8, tratando de averiguar cómo abrirlas sin despertar a sus guardianes.
@@ -160,7 +160,7 @@ Cuando los personajes entren en la sala, el Dungeon Master debe tirar 1d6:
 
 Esta sala ha sido habilitada como despensa y cocina de los enanos. Hay utensilios de cocina y un hogar donde Kani, la mujer de Nain, cocina para el pequeño grupo de enanos. En las alacenas hay comida envasada y empaquetada. Un grupo de aventureros podría llegar a empaquetar raciones suficientes para alimentar a 6 personas durante 2 semanas.
 
-Cuando el grupo entre en la sala, el Dungeon Master debe tirar 1d6:
+Cuando el grupo entre en la sala, el DJ debe tirar 1d6:
 
 * Con un 1-2, Kani está cocinando en la sala.
 * Con un 3, Kani está cocinando en la sala, ayudada por Dain, su hijo.
@@ -169,7 +169,7 @@ Cuando el grupo entre en la sala, el Dungeon Master debe tirar 1d6:
 #### Sección 5 – Dormitorio
 
 Este es el dormitorio de Dain, Nari, Nôri y Oin. Hay cuatro pequeñas camas en la sala, y un baúl al lado de cada una de ellas. En los baúles hay ropa y pertenencias personales de poco valor monetario.
-Cuando el grupo entre en la sala, el Dungeon Master debe tirar 1d6:
+Cuando el grupo entre en la sala, el DJ debe tirar 1d6:
 
 * Con un 1, hay 1d4 enanos durmiendo en la sala.
 * Con un 2, hay 1d2 enanos durmiendo en la sala.
@@ -179,14 +179,14 @@ Cuando el grupo entre en la sala, el Dungeon Master debe tirar 1d6:
 
 En esta sección está el dormitorio de Nain y Kani. Hay una cama grande y dos baúles llenos de ropa. El tesoro de los enanos se encuentra escondido detrás de una pequeña trampilla hábilmente escondida en el suelo (se encontrará como cualquier otra puerta secreta). Dentro de la trampilla hay 800 monedas de plata; dos turquesas (25 mo cada una); una barra de lapislázuli (25 mo); un juego de 10 lentes de relojero (30 mo/lente); un brazalete de bronce (170 mo); un medallón de cobre con arabescos (140 mo); y un jarrón de porcelana (600 mo).
 
-Cuando el grupo de aventureros llegue a esta sala, el Dungeon Master tirará 1d6:
+Cuando el grupo de aventureros llegue a esta sala, el DJ tirará 1d6:
 
 * Con un 1, Nain y Kari están durmiendo en la cama.
 * Con un 5-6, la sala está vacía.
 
 #### Sección 7 - La forja de los enanos
 
-Antes de que un grupo de aventureros entre en la sala, el Dungeon Master debe tirar 1d6:
+Antes de que un grupo de aventureros entre en la sala, el DJ debe tirar 1d6:
 
 * Con un 1-4, Nain, Nari y Nôri están trabajando en la forja. Se oyen ruidos de martilleo desde el exterior.
 * Con un 5-6, la puerta está cerrada con llave (Nain siempre lleva la llave encima). En la puerta hay una trampa de aguja. Si no se desactiva, una aguja se clavará en la mano del que intente abrir la puerta. Si no pasa una tirada de salvación contra venenos, caerá al suelo completamente paralizado durante 1d3 horas.
@@ -201,7 +201,7 @@ En el centro de esta sala circular y abovedada descansa el Sarcófago de Barguli
 
 #### Sección 9 - La Sombra de Bargulis
 
-En esta sala se encuentra el tesoro del templo de Bargulis: 2.000 monedas de plata; 4.000 monedas de oro; 1 rollo de seda (400 mo; 4 kilos); 10 piezas de marfil (60 mo; 0,5 kilos/pieza); 1 pieza de jade (100 mo); 1 pieza de ónix (50 mo); 3 viales de perfume (125 mo/vial); una capa bordada (1500 mo; 1 kilo); una estatua de alabastro (600 mo); un medallón de platino (1100 mo); un mapa del tesoro que lleva a un botín de 12.000 monedas de oro (detalles por determinar por el Dungeon Master); un escudo +2, con una superficie que siempre se mantiene brillante como un espejo; un Anillo de Protección +2, hecho de oro y con una joya verde que, si se quita del anillo, rompe el encantamiento; una espada +3 que brilla con una tenue luz azul cuando se saca de su vaina, y que aumenta de brillo si se enfrenta a una oscuridad mágica, hasta terminar dispersándola; una poción de invisibilidad; y un pergamino con dos conjuros divinos (Comunión y Bendición)
+En esta sala se encuentra el tesoro del templo de Bargulis: 2.000 monedas de plata; 4.000 monedas de oro; 1 rollo de seda (400 mo; 4 kilos); 10 piezas de marfil (60 mo; 0,5 kilos/pieza); 1 pieza de jade (100 mo); 1 pieza de ónix (50 mo); 3 viales de perfume (125 mo/vial); una capa bordada (1500 mo; 1 kilo); una estatua de alabastro (600 mo); un medallón de platino (1100 mo); un mapa del tesoro que lleva a un botín de 12.000 monedas de oro (detalles por determinar por el DJ); un escudo +2, con una superficie que siempre se mantiene brillante como un espejo; un Anillo de Protección +2, hecho de oro y con una joya verde que, si se quita del anillo, rompe el encantamiento; una espada +3 que brilla con una tenue luz azul cuando se saca de su vaina, y que aumenta de brillo si se enfrenta a una oscuridad mágica, hasta terminar dispersándola; una poción de invisibilidad; y un pergamino con dos conjuros divinos (Comunión y Bendición)
 
 En una vasija negra descansa la Sombra de Bargulis, un espectro. Normalmente siempre esperará a que alguien coja la vasija negra para atacarle por sorpresa con su terrible toque. Si nadie coje la vasija pero trata de llevarse algo del tesoro, la Sombra de Bargulis saldrá de su vasija para atacar a todo el grupo.
 
@@ -261,7 +261,7 @@ En esta cueva hay una gran cantidad de agujeros en suelo y paredes, de alrededor
 
 Estos túneles los cava un Ankheg que mora por la montaña, yendo de un lugar a otro excavando largas galerías que inevitablemente terminan hundiéndose.
 
-Cuando el grupo entre el la sala, el Dungeon Master debe tirar 1d6:
+Cuando el grupo entre el la sala, el DJ debe tirar 1d6:
 
 * Con un 1, un Ankheg está en cueva, devorando a un ciempiés gigante.
 * Con un 2, un Ankheg está en uno de los túneles, esperando para atacar por sorpresa a quienquiera que entre.
@@ -363,7 +363,7 @@ Alrededor de él están los tesoros con los que fue enterrado: 3.000 monedas de 
 
 El área central de este nivel es la guarida de los hobgoblins liderados por Norens. Los hobgoblins se denominan a sí mismos la XIIIª Legión de Kangg, y antaño formaron parte de dicha fuerza militar, leal a los Reyes de la Montaña. Pero cuando el último rey murió, Norens, uno de los centuriones, convenció a sus hombres más fieles de que se unieran a él, y juntos se hicieron fuertes en estas cuevas. Aquí esclavizaron a los micónidos y consiguieron el control del comercio de los hongos que estos seres cultivaban. La tribu ha ido creciendo en poder, y su riqueza les ha permitido establecer una alianza con los Asesinos de Oglub, una banda de Ogros. 
 
-Las tiradas en la tabla de Monstruos Errantes indican la posibilidad de que los personajes se encuentren con ciertos hobgoblins que vagan por la caverna. El Dungeon Master debe tirar 1d6 en los momentos apropiados:
+Las tiradas en la tabla de Monstruos Errantes indican la posibilidad de que los personajes se encuentren con ciertos hobgoblins que vagan por la caverna. El DJ debe tirar 1d6 en los momentos apropiados:
 
 * Con un 1, los personajes se encuentran con 1d6 niños hobgoblin.
 * Con un 2, los personajes se encuentran con 1d6 mujeres hobgoblin.
@@ -410,15 +410,15 @@ Esta es la sala donde Varkag, la matriarca hobgoblin, vive con las mujeres que g
 
 En esta sala hay una gran cantidad de hongos en diversas fases de secado. Muchos hongos necesitan ciertos procesos de preparación antes de ser utilizables. Durante estos procesos, algunos hongos sueltan esporas o huelen mal, y los hobgoblins los dejan aquí durante esos procesos.
 
-En esta sala puede haber diversas nubes de esporas u olores fétidos, dependiendo de los hongos que se encuentren en ellas. Cuando el grupo de personajes entre en esta sala, el Dungeon Master deber tirar 1d6:
+En esta sala puede haber diversas nubes de esporas u olores fétidos, dependiendo de los hongos que se encuentren en ellas. Cuando el grupo de personajes entre en esta sala, el DJ deber tirar 1d6:
 - Con un 1-3, los hongos son inofensivos.
 - Con un 4, el aire está tan lleno de esporas que los personajes deben superar una tirada de salvación contra venenos o serán presa de una tos tan escandalosa que se deberá hacer inmediatamente una tirada en la tabla de Monstruos Errantes.
 - Con un 5, el aire está lleno de olor tan fétido que sólo aquellos personajes que superen una tirada de salvación contra venenos podrán entrar en la sala.
-- Con un 6, el aire está lleno de esporas inflamables. Si alguien entra con una antorcha o lámpara encendida, el Dungeon Master debe tirar 1d6: con un 1-3, las esporas se inflaman, y todos los seres vivos que se encuentren en la sala sufren 2d6 de daño por el fuego que cubre la sala en un instante.
+- Con un 6, el aire está lleno de esporas inflamables. Si alguien entra con una antorcha o lámpara encendida, el DJ debe tirar 1d6: con un 1-3, las esporas se inflaman, y todos los seres vivos que se encuentren en la sala sufren 2d6 de daño por el fuego que cubre la sala en un instante.
 
 #### Sección 39 - Celdas
 
-Esta sección está cerrada con una puerta de recio roble. En su interior los hobgoblins encierran a sus cautivos. Actualmente la celda está vacía, pero el Dungeon Master debería hacer que aquí estuviera cualquier persona que convenga a su campaña.
+Esta sección está cerrada con una puerta de recio roble. En su interior los hobgoblins encierran a sus cautivos. Actualmente la celda está vacía, pero el DJ debería hacer que aquí estuviera cualquier persona que convenga a su campaña.
 
 #### Sección 40 - Dormitorio de Norens
 
@@ -426,7 +426,7 @@ Este es el dormitorio de Norens, el líder hobgoblin. Tiene una gran cama con do
 
 El tesoro personal de Norens se encuentra en un baúl cerrado con una cerradura de hierro. Norens lleva encima siempre la llave. En el interior del baúl está el uniforme de Norens, que ya no usa nunca, una medalla de oro entregada por valor en combate (25 monedas de oro) y 500 monedas de oro.
 
-Cuando los personajes lleguen a esta sala, el Director de Juego debe lanzar 1d6:
+Cuando los personajes lleguen a esta sala, el DJ debe lanzar 1d6:
 
 - Con un 1, Norens está durmiendo en la cama, con una de las mujeres hobgoblin.
 - Con un 2, Norens está trabajando en su escritorio.
@@ -440,11 +440,11 @@ En la parte norte de la sala hay un estrado al que se sube por tres escalones. E
 
 La sala está iluminada por grandes braseros que iluminan tenuemente la sala.
 
-Cuando los personajes lleguen a esta sala, el Director de Juego debe lanzar 1d6:
+Cuando los personajes lleguen a esta sala, el DJ debe lanzar 1d6:
 
 - Con un 1, hay una celebración en la sala. Prácticamente toda la tribu se encuentra aquí: Norens, su hijo Narkag, la matriarca Varkag, 2 Ogros, 1d6 campeones hobgoblin, 1d6+6 guerreros goblin, 3d10+10 mujeres y 6d10+20 niños hobgoblin. Hay un 50% de posibilidades de que Uder el Chamán y su aprendiz Orgub el ogro se encuentren en la fiesta, y un 25% de que esté Ufniki, el Doctor Brujo. 
 - Con un 2, hay una ceremonia religiosa en la sala. Se encuentran en la sala Norens, su hijo Narkag, la matriarca Varkag, Uder el Chamán y su aprendiz Orgub, así como 1d3+3 campeones hobgoblin, 1d10+10 guerreros hobgoblin y 1d10+20 mujeres hobgoblin. En la ceremonia se invoca a Kangg el Guerrero, y los varones hobgoblins ejecutan cánticos y combates rituales bajo la atenta mirada del Chamán.
-- Con un 3, Norens está manteniendo una audiencia. Tira 1d6 para determinar la causa. Con un 1-3, es una disputa entre mujeres hobgoblin o guerreros. Con un 4, Norens está conferenciando con el jefe ogro Oglub y 2 de sus ogros. Con un 5-6, Norens está hablando con enviados de otras partes del megadungeon, cuya identidad debe determinar el Dungeon Master.
+- Con un 3, Norens está manteniendo una audiencia. Tira 1d6 para determinar la causa. Con un 1-3, es una disputa entre mujeres hobgoblin o guerreros. Con un 4, Norens está conferenciando con el jefe ogro Oglub y 2 de sus ogros. Con un 5-6, Norens está hablando con enviados de otras partes del megadungeon, cuya identidad debe determinar el DJ.
 - Con un 4, la sala está siendo limpiada por un grupo de 1d10 mujeres hobgoblin. Hay 1d3 guerreros hobgoblin holgazaneando mientras las mujeres trabajan.
 - Con un 5-6, la sala está vacía, a excepción de 1d3 guerreros hobgoblin que montan guardia.
 
@@ -506,7 +506,7 @@ El túnel que llega desde la sección 47 está cubierto de pequeñas oquedades d
 
 En esta pequeña sala Uder enseña a los jóvenes hobgoblins las enseñanzas de Kangg, Dios de la Guerra. Estas enseñanzas no son sólo religiosas, sino también marciales: táctica y lucha. Todos los varones hobgoblins deben entrenar para convertirse en guerreros y soldados de la XIIIª Legión
 
-El Dungeon Master debe tirar 1d6 cuando el grupo entre en esta cueva. 
+El DJ debe tirar 1d6 cuando el grupo entre en esta cueva. 
 
 - Con un 1, Uder se encuentra en la sala junto a su aprendiz Orgub el ogro, enseñando a 1d6+10 jóvenes hobgoblin.
 - Con un 2, Orgub se encuentra en esta cueva, recibiendo las enseñanzas de Uder.
@@ -535,7 +535,7 @@ Cualquier zona en la que no haya ningún encuentro puede ser susceptible de albe
 
 En esta cueva hay un gran abismo que se hunde en las profundidades. La cueva está algo inclinada hacia el abismo, lo cual hace que andar por aquí sea algo inquietante. Peor aún, desde este abismo pueden surgir en ocasiones monstruos procedentes de las profundidades. 
 
-Cuando los personajes entren en esta cueva, el Dungeon Master debe tirar 1d6 y consultar la siguiente tabla:
+Cuando los personajes entren en esta cueva, el DJ debe tirar 1d6 y consultar la siguiente tabla:
 
 - Con un 1-3, no hay ningún monstruo preparando una emboscada.
 - Con un 4, un grupo de 1d6 zombies sube trepando por el abismo.
