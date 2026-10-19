@@ -1,23 +1,32 @@
 # Introducción
 
-La Montaña Soberana se erige majestuosa, imponente y poderosa, dominando una extensión de terreno que parece infinita. Es una mole agreste y afilada que acuchilla las nubes perpetuamente con su cénit. Pero su aspecto amenazador e inquietante no se limita a su imponente presencia. Cualquiera que clave la vista en ella durante más de unos instantes, siente un abrumador miedo antinatural.
+## La leyenda de la Montaña
 
-Aunque algunos mapas detallan su ubicación, pocos quieren saber algo sobre este temible lugar. Las comunidades y ciudades cercanas viven de espaldas a la Montaña, intentando olvidar su existencia. Sin embargo, la codicia es más fuerte que el miedo y muchos cazadores de tesoros y aventureros hablan de ella en las posadas y caminos que llevan hasta allí. Todos tienen un indisimulado deseo de descubrir los tesoros incalculables que, según rumores persistentes, se esconden en la Montaña.
+La Montaña Soberana domina una vasta extensión de tierras. Es una mole agreste y afilada cuya cumbre permanece siempre oculta entre las nubes. Pero su aspecto amenazador no se limita a su presencia: quien fija la vista en ella más de unos instantes siente un miedo abrumador y antinatural.
 
-También está la otra leyenda; "_Aquel que domina la Montaña, domina el mundo_", cuentan las historias del pasado. Muchos locos, algunos de la peor calaña, llegan hasta allí buscando averiguar si es cierto lo que se dice sobre su cima y poder así erigirse en reyes o alcanzar la divinidad. Nadie sabe ya el porqué, si fue cosa de dioses o sabios de una época olvidada, pero según cuentan, alguien dejó en la cúspide ingenios y magia tan poderosa que serviría para dominar todos los territorios que alcanzan a verse desde su promontorio. Quizá fuese cosa de dioses aburridos, poderosos hechiceros con ansias de poder o una raza de seres elementales llegados de otro plano de existencia; nadie lo sabe a ciencia cierta. Pero sea como fuere, dicen que con ellos se pueden dominar el clima y la tierra; conjurar tormentas implacables, terremotos destructores, huracanes terribles, olas de frío o calor o años de productivas cosechas.
+Algunos mapas señalan su ubicación, pero pocos quieren saber nada de ese lugar. Las comunidades y ciudades cercanas viven de espaldas a la Montaña e intentan olvidar que existe. Aun así, la codicia pesa más que el miedo, y en las posadas y los caminos que llevan hasta ella muchos cazadores de tesoros y aventureros hablan de la Montaña sin disimular su interés. Persisten los rumores sobre las riquezas incalculables que se ocultan en su interior.
 
-Durante siglos, reyes y caudillos de países cercanos han luchado por ser los amos de la cima y autoproclamarse reyes de la montaña, dominando los territorios circundantes. Algunos tiranos han usado la montaña como la capital de su reino de terror. En otros momentos, su cima ha estado gobernada por reyes enanos, cábalas de magos o simples humanos; todos ellos habitaron sus niveles y horadaron nuevos pasajes y salones en su interior. No se sabe si fueron los ingenios de la cima o el poder de sus ejércitos y magia lo que les hizo prevalecer sobre otros aspirantes y reinar durante décadas.
+Existe, además, otra leyenda: "_Aquel que domina la Montaña, domina el mundo_". Según las historias antiguas, alguien dejó en la cumbre ingenios y magia tan poderosos que bastarían para dominar todas las tierras que alcanzan a verse desde lo alto. Nadie recuerda ya quién lo hizo, si fueron los dioses, poderosos hechiceros o una raza de seres elementales llegados de otro plano de existencia. Pero se dice que con ellos es posible gobernar el clima y la tierra: desatar tormentas, terremotos, huracanes y olas de frío o de calor, o conceder años de cosechas abundantes. Por eso llegan hasta allí muchos locos, algunos de la peor calaña, decididos a comprobar si la leyenda es cierta y a proclamarse reyes, o incluso dioses.
 
-::: {.imagefull}
-![Los alrededores de la Montaña Soberana](./02-introduccion/mountains-x4.png)
-:::
+Durante siglos, reyes y caudillos de los países vecinos han luchado por adueñarse de la cima y proclamarse Reyes de la Montaña, señores de las tierras circundantes. Algunos tiranos hicieron de ella la capital de su reino de terror. En otras épocas la gobernaron reyes enanos, cábalas de magos o simples humanos; todos ellos habitaron sus niveles y excavaron nuevos pasajes y salones en su interior. No se sabe si fueron los ingenios de la cima o la fuerza de sus ejércitos y su magia lo que les permitió imponerse a otros aspirantes y reinar durante décadas.
 
-Desde hace años la montaña ha carecido de un rey que gobierne sus dominios, pero los adivinos susurran en voz baja que la espera llega a su fin. La profecía augura que un nuevo soberano tomará posesión del lugar y se erigirá como el señor absoluto de la cima. Se rumorea que diversos grupos de osados aventureros han emprendido recientemente una arriesgada empresa para asaltar sus salones, pertrechados como nunca antes. ¿Acaso alguno de ellos logrará sobrevivir a la implacable montaña y a sus trampas mortales?
+Hace años que la Montaña carece de rey, pero los adivinos murmuran que la espera toca a su fin. Una profecía anuncia que pronto un nuevo soberano tomará posesión de la cima. Se dice también que varios grupos de aventureros, pertrechados como nunca antes, se han lanzado recientemente a asaltar sus salones.
 
-En lo más profundo de su corazón, la montaña guarda los vestigios de las antiguas civilizaciones que se albergaron en sus estancias, mientras que los fantasmas de aquellos que huyeron atolondradamente acechan en la oscuridad. Además, diversas facciones y razas han encontrado su hogar bajo tierra, en la profunda penumbra de sus pasajes. Es un pequeño universo repleto de seres extraños, laberínticos niveles y pruebas despiadadas, todo diseñado para proteger la cima y sus tesoros de aquellos lo bastante osados para intentarlo. Una última advertencia a aquellos lo suficientemente osados como para desafiar los peligros de la montaña: la mayoría de los aventureros que parten hacia allí, jamás regresan. Cuentan las historias que los intrépidos que pierden la vida en sus lóbregos recovecos y cavernas son el sustento de sus actuales habitantes.
+Entretanto, la Montaña sigue habitada por los vestigios de las civilizaciones que ocuparon sus estancias, y por los fantasmas y las riquezas que muchas otras abandonaron en su huida. En la oscuridad de sus pasajes han encontrado hogar facciones y razas de todo tipo. Es un pequeño universo de seres extraños, niveles laberínticos y pruebas despiadadas que, según dicen, fueron concebidas para proteger la cima y sus tesoros.
 
-::: {.imagefull}
-![Los solitarios picos aguardan](./02-introduccion/mountains2.png)
-:::
+Una última advertencia para quienes piensen adentrarse en ella: la mayoría de los que parten hacia la Montaña nunca regresan. Se cuenta que los aventureros que mueren en sus galerías y cavernas sirven de sustento a sus actuales habitantes.
 
-Solo los más valientes se atreverán a adentrarse en las peligrosas entrañas de la montaña, en busca de fama, fortuna y gloria. Pero debes tener cuidado, pues los desafíos que te esperan son innumerables y solo los más astutos y perseverantes podrán superarlos. La Montaña exige un tributo alto, y solo aquellos que estén dispuestos a pagar el precio podrán hacerse con su tesoro y el título de rey de la cima. ¿Te consideras digno de asumir este desafío y emprender el viaje hacia la gloria eterna?
+## Cómo usar esta aventura
+
+La Montaña Soberana es un megadungeon: un complejo de niveles conectados entre sí que los personajes pueden explorar en el orden que prefieran. El libro se organiza de la siguiente manera:
+
+* **Piedrainerte**: el pueblo más cercano a la Montaña. Sirve como lugar de descanso antes de la expedición y para recuperarse entre incursiones, e incluso para asentarse en él.
+* **El camino hasta la Montaña**: el viaje de un par de días desde los asentamientos cercanos, con rumores que los personajes pueden haber oído y percances que pueden sufrir por el camino.
+* **El exterior de la Montaña**: la gran explanada al pie de la Montaña, con la entrada principal al nivel 1, un acceso oculto a las alcantarillas del nivel 2 y el cementerio de aventureros.
+* **Niveles 1 a 9**: el interior de la Montaña, desde sus salas más accesibles hasta la cima.
+
+Los niveles no forman una secuencia lineal. Cada uno incluye una sección de conexiones que indica qué salas comunican con otros niveles. El Pozo del nivel 5 es un cruce de caminos por el que pasan muchos de los habitantes de la Montaña, y la cima solo es accesible desde los ascensores del nivel 8.
+
+<!-- Pendiente: niveles de personaje recomendados por nivel de la Montaña. -->
+<!-- Pendiente: sistemas compatibles y notación de estadísticas. -->
+<!-- Pendiente: qué hay de cierto en las leyendas (requiere revisar el nivel 9). -->
