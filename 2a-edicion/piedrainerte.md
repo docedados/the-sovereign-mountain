@@ -56,7 +56,7 @@ Para poder llegar a decir que una de las casas vacías está siendo habitada, ha
 | j | Casa | Freddy |
 :::
 
-Los puntos negros que rodean el pueblo en el mapa son los hitos que marcan su perímetro. La Torre Mística queda fuera del mapa, a pocos kilómetros al norte.
+Los puntos negros que rodean el pueblo en el mapa son los hitos que marcan su perímetro.
 
 ## El pueblo
 
