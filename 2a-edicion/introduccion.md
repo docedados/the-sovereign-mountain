@@ -20,7 +20,7 @@ Una última advertencia para quienes piensen adentrarse en ella: la mayoría de 
 
 La Montaña Soberana es una megamazmorra (_megadungeon_ en inglés): un complejo de niveles conectados entre sí que los personajes pueden explorar en el orden que prefieran. El libro se organiza de la siguiente manera:
 
-* **Piedrainerte**: el pueblo más cercano a la Montaña. Allí los personajes pueden prepararse antes de la expedición y volver entre incursiones para curarse, vender lo que hayan encontrado, fundir sus monedas en lingotes (el pueblo no acepta moneda) y enterarse de rumores. Conviene que el DJ conozca la maldición de las seis casas antes de que algún personaje intente instalarse allí.
+* **Piedrainerte**: el pueblo más cercano a la Montaña, levantado sobre una pequeña loma de tierra firme en medio de una turbera. Allí los personajes pueden prepararse antes de la expedición y volver entre incursiones para curarse, vender lo que hayan encontrado, fundir sus monedas en lingotes (el pueblo no acepta moneda) y enterarse de rumores. Conviene que el DJ conozca la maldición de las seis casas antes de que algún personaje intente instalarse allí.
 * **El camino hasta la Montaña**: el viaje de un par de días desde los asentamientos cercanos, con rumores que los personajes pueden haber oído y percances que pueden sufrir por el camino.
 * **El exterior de la Montaña**: la gran explanada al pie de la Montaña, con la entrada principal al nivel 1, un acceso oculto a las alcantarillas del nivel 2 y el cementerio de aventureros.
 * **Niveles 1 a 9**: el interior de la Montaña, desde sus salas más accesibles hasta la cima.
@@ -29,13 +29,31 @@ Los niveles no forman una secuencia lineal. Cada uno incluye una sección de con
 
 Cada capítulo de nivel empieza con la historia del nivel y sus habitantes, sigue con el mapa y las conexiones con otros niveles, y termina con la descripción de las salas, numeradas como en el mapa.
 
+### Nivel de los personajes
+
+La campaña está pensada para empezar con personajes de nivel 1 a 3 y acompañarlos durante muchas sesiones. El número de cada nivel de la Montaña indica dónde está, no lo peligroso que es, y nada impide a un grupo meterse donde no debe. Como orientación:
+
+::: striped
+| Peligro | Zonas | Nivel de los PJ |
+|:--|:--|:--:|
+| Bajo | el camino, el exterior y los niveles 1 y 2 | 1 a 3 |
+| Medio | niveles 3, 4 y 5 | 4 a 6 |
+| Alto | niveles 6, 7 y 8 | 7 a 9 |
+| Muy alto | nivel 9, la cima | 10 o más |
+:::
+
+El nivel 2 se puede alcanzar desde muchos puntos de la Montaña y guarda alguna sorpresa dura para un grupo de poco nivel. Los personajes de Piedrainerte rondan los niveles 2 a 7: están más curtidos que un grupo recién llegado, pero no tanto como para resolverle lo que hay en la Montaña.
+
+<!-- Pendiente: ajustar la tabla a medida que se revise cada nivel. Se basa en lo que hay en cada uno: goblins en el 1; hombres lagarto y un dragón dormido en el 3; orcos, gnolls y medusas en el 4; hobgoblins, ogros y PNJ de nivel 6 en el 5; gólems y demonios en el 6; un gigante de las tormentas y PNJ de niveles 10 a 12 en el 9. -->
+
 ### Convenciones
 
 * **Abreviaturas**: DJ (director de juego), PJ (personaje jugador), PNJ (personaje no jugador), PG (puntos de golpe), DG (dados de golpe), CA (clase de armadura), TS (tirada de salvación) y PX (puntos de experiencia). Las siglas no cambian en plural: _los PJ_.
+* **Clase de armadura**: se da primero la CA ascendente de _Castles & Crusades_ y, entre corchetes, la descendente de los juegos clásicos: _CA 15 [4]_. Una se obtiene restando la otra de 19.
 * **Monedas**: mo (oro), mp (plata), mc (cobre) y me (electro).
 * **Dados**: 1d6 es un dado de seis caras y 2d6+1, dos dados de seis caras más uno. Una probabilidad de _1 en 1d6_ se resuelve tirando 1d6: ocurre si sale un 1.
 * **Tiempo**: un asalto dura 10 segundos y un turno, 10 minutos.
-* **Medidas**: en el sistema métrico.
+* **Medidas**: en el sistema métrico. Las distancias del reglamento, que vienen en pies, se convierten a razón de 1,5 metros por cada 5 pies: un movimiento de 30 pies son 9 metros.
 
 ### Aviso sobre el contenido
 
@@ -90,7 +108,7 @@ La leyenda basta para atraer a muchos aventureros, pero conviene dar a los perso
 |:--:|:--|:--|
 | 1 | **Las riquezas de la Montaña.** Los personajes han oído hablar de los tesoros que esconde y la codicia les basta. Cada uno conoce un rumor (véase _El camino hasta la Montaña_). | Cualquier nivel |
 | 2 | **La profecía.** Un señor de las tierras vecinas cree que se acerca la hora del nuevo Rey de la Montaña. Financia la expedición a cambio de que los personajes le abran camino hasta la cima, o de que impidan que otro llegue antes. | La cima |
-| 3 | **La reliquia perdida.** Hemin Guay, juez de Piedrainerte, busca con discreción a quien recupere un collar de plata robado a su iglesia y escondido en la Montaña. No explica por qué no va él mismo. | Nivel 5 |
+| 3 | **La reliquia perdida.** Hemric Vale, juez de Piedrainerte, busca con discreción a quien recupere un collar de plata robado a su iglesia y escondido en la Montaña. No explica por qué no va él mismo. | Nivel 5 |
 | 4 | **La vara de la cordura.** Una familia noble busca la Vara de Lapislázuli, que según se dice devuelve la razón a quien la ha perdido, y pagará bien a quien la traiga. | Nivel 7 |
 | 5 | **Los desaparecidos.** Durante años, criminales y proscritos de todas las razas han desaparecido sin dejar rastro. Un cazador de recompensas sigue la pista de uno de ellos, la elfa Arlayna Meriondel, hasta la Montaña y busca ayuda para capturarla. | Nivel 4 |
 | 6 | **Los cautivos.** Partidas de hombres lagarto salidas de la Montaña se han llevado a gente de una aldea cercana. Sus familias ofrecen todo lo que tienen por recuperarlos. | Nivel 3 |
