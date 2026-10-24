@@ -1,13 +1,5 @@
 # Autoría
 
-## Por qué esta edición
-
-_La Montaña Soberana_ nació en 2015 como un proyecto colectivo: un grupo de aficionados y autores se repartió los niveles de una megamazmorra y cada uno escribió el suyo con su propia voz, su propio humor y su propia idea de lo que debía ser una partida en la Montaña. El resultado se publicó con una licencia libre que permite, precisamente, que otros lo tomen, lo cambien y lo vuelvan a compartir.
-
-Esta segunda edición se apoya en esa licencia. Quise construir una versión de la Montaña que encajara mejor con mi grupo de juego habitual, al que suelen gustarle más las historias de fantasía más terrenal, lo que en inglés se llama _low fantasy_, y con el que no acaban de funcionar los chascarrillos, los juegos de palabras ni los guiños al lector. Por eso el trabajo principal ha consistido en dar al texto más seriedad y en cuidar la cohesión y la coherencia entre capítulos, para que la Montaña se lea como un solo lugar y no como una suma de piezas.
-
-Quiero dejar claro que esta edición no pretende, bajo ningún concepto, faltar al respeto al trabajo original ni a sus autores, ni sostener que una forma de hacer las cosas sea mejor que otra. Muchas de las bromas que aquí se han quitado son, en su contexto, divertidas, y muchas mesas disfrutarán más de la versión original. Esta es, simplemente, una versión que se ajusta a unos gustos concretos. Espero que sea bien recibida y que a nadie le moleste.
-
 ## Autores de la primera edición
 
 La primera edición la coordinó Bester, que firmó su prefacio en 2015. En julio de 2016 se publicó una segunda versión que añadía el capítulo de Piedrainerte.
