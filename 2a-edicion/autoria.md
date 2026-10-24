@@ -36,7 +36,27 @@ La leyenda de la Montaña sigue siendo la misma, contada con un tono más sobrio
 
 El pueblo tenía una maldición cuyo origen no terminaba de estar claro, y varias piezas sueltas que apuntaban hacia ella sin llegar a tocarse: un demonio encerrado, un viejo mago desmemoriado, un libro que nadie podía leer, un paladín que rezaba a escondidas ante una imagen que cambiaba de rostro. En esta edición esas piezas se han unido. La maldición tiene ahora un origen concreto y un lugar preciso en el mapa, y no depende de pactos: el demonio está preso contra su voluntad, y lo que ocurre en el pueblo es la consecuencia de ese encierro. Su influencia sobre los habitantes y los visitantes es más sutil y más fácil de manejar para el director de juego, y explica de paso algunas de las desgracias que el pueblo ya arrastraba.
 
-También se ha buscado que el pueblo resulte más creíble como lugar. Lo que antes era pura magia, como la imposibilidad de construir más allá de los hitos, tiene ahora una explicación física que se deduce del propio paisaje.
+También se ha buscado que el pueblo resulte más creíble como lugar. Lo que antes era pura magia, como la imposibilidad de construir más allá de los hitos, tiene ahora una explicación física que se deduce del propio paisaje. Además, los niveles de sus habitantes se han rebajado: en la primera edición el pueblo tenía un mago de nivel 16 y un ladrón de nivel 12, más poderosos que casi todo lo que espera en la cima.
+
+Por último, se han cambiado los nombres de casi todos sus habitantes. Muchos de los originales escondían un chiste o un guiño, y desentonaban con el tono de esta edición; los nuevos son nombres al uso de los mundos de fantasía clásicos. Quien conozca la primera edición puede usar esta tabla para orientarse:
+
+::: striped
+| Primera edición | Esta edición |
+|:--|:--|
+| Fistandanfi | Feldric |
+| hermano Tom | hermano Tobin |
+| Hernest | Harlan |
+| Hemin Guay | Hemric Vale |
+| Kipi y Kape | Kellan y Korin |
+| Edgar Kunning | Edric Kell |
+| Arcenas | Arvel |
+| Filint | Fargrim |
+| Eyvilin | Eldrin |
+| Oculuck | Ozrakhul |
+| los Pitete | los Pell |
+| Julay | Jessa |
+| Freddy | Fenn |
+:::
 
 _Esta lista se irá completando a medida que avance la revisión del resto de capítulos._
 

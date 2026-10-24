@@ -11,3 +11,7 @@
 - Introducción
 
   Se ha revisado el texto de la leyenda y se ha añadido una sección, _Cómo usar esta aventura_, que describe la estructura del libro y la conexión entre niveles. Se han añadido convenciones del libro, un aviso sobre el contenido, una cronología de la Montaña para el DJ, una tabla de ganchos, una guía del nivel de los personajes por zonas, un procedimiento para lo que ocurre entre incursiones, una explicación de por qué no hay atajos a la cima y un apartado sobre el final de la campaña.
+
+- Piedrainerte
+
+  Se ha reescrito el capítulo. Las seis casas y la maldición tienen ahora un origen concreto: el demonio Ozrakhul, encerrado bajo la casa central. Desaparecen los pactos, el Místico y la torre. La imposibilidad de construir fuera de los hitos se explica por la turbera. Se han cambiado los nombres de casi todos los personajes y se ha añadido una tabla con los edificios del mapa. Se han rebajado los niveles de los personajes, la cárcel pasa a ser la casa de justicia y Feldric tiene ya su ficha para _Castles & Crusades_.

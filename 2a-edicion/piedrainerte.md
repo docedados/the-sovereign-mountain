@@ -1,133 +1,186 @@
-# Piedrainerte, por Sergio Somalo “Tremandur”
+# Piedrainerte
 
-Este pueblo está pensado para ubicarse en las cercanías de la Montaña Soberana, sirva como lugar de descanso previo o para recuperarse de las aventuras corridas y sufridas dentro de la Montaña, así como poder ser un lugar donde asentarse, siempre y cuando se mantengan las reglas que lo rigen.
+Piedrainerte se levanta sobre una pequeña loma en medio del páramo, el último lugar habitado antes de la Montaña. La loma descansa sobre un lecho de roca sólida y es la única tierra firme en muchas leguas a la redonda. Cuatro senderos suben hasta ella desde los cuatro puntos cardinales. Alrededor, la turbera se extiende hasta donde alcanza la vista, parda y empapada, y apenas crece en ella otra cosa que musgo y juncos; sobre la loma, en cambio, hay matorrales y unas pocas arboledas dispersas entre las casas. Una hilera de hitos negros rodea el pueblo y marca hasta dónde llega la tierra firme.
 
-No se ha añadido estadísticas para que pueda ser utilizado con los diferentes sistemas que existen, aunque en la redacción y diseño del mismo se ha tenido en mente siempre sistemas tipo Ad&D o Aventuras en la Marca del Este.
+Es un pueblo pequeño, de piedra y madera, acostumbrado a ver pasar aventureros. Allí se puede descansar antes de partir hacia la Montaña, curarse y abastecerse a la vuelta, e incluso asentarse, siempre que se respeten las normas del lugar.
 
-## Mapa
+<!-- Pendiente: estadísticas de los PNJ según el sistema elegido. -->
 
-![](./img/piedrainerte.jpg)
+::: span-2-right
+![](./img/piedrainerte.png)
+:::
 
 ## Historia
 
-El nacimiento del pueblo como asentamiento estable no está muy claro y la verdadera información, según muchos de sus habitantes, se puede encontrar de dos sitios, ambos actualmente inaccesibles. Uno es la torre-biblioteca del centro del pueblo y otra, la mente completamente insondable del viejo Fistandanfi.
+Nadie sabe con certeza cómo nació el pueblo. Según muchos de sus habitantes, la respuesta está en dos sitios a los que nadie tiene acceso: la torre-biblioteca del centro del pueblo, siempre cerrada, y la cabeza del viejo Feldric, de la que nadie consigue sacar dos frases seguidas con sentido.
 
-Entre las casas que actualmente se mantienen en pie, hay tres edificios que destacan del resto por su antigüedad patente y sus diferentes estilos. Todos los piedrainerteños están de acuerdo que el pueblo nació alrededor de dos de ellos, solo que unos dicen que fue alrededor de la biblioteca y otros alrededor del tempo. En lo que si están de acuerdo que la Torre mística, que presenta unas formas muy diferentes y antiguas al resto, es un punto a evitar.
+Entre las casas que siguen en pie hay tres construcciones que destacan por su antigüedad y por un estilo distinto al del resto: el templo, la torre-biblioteca y las seis casas que el pueblo mantiene vacías. Los piedrainerteños discuten si el pueblo creció alrededor del templo o alrededor de la biblioteca; en lo que todos coinciden es en que esos edificios ya estaban allí cuando llegaron los primeros colonos, y en que quizá alguna de las civilizaciones que dominaron la Montaña levantó aquí un asentamiento anterior.
 
-Cuando la Montaña Soberana comenzó a ser un lugar de peregrinaje, los aventureros buscaban tanto la información que pudiese tener la biblioteca en relación con la montaña como las atenciones del tempo de cara a su salud y heridas. El hecho es que varios de los aventureros que visitaron la montaña, decidieron quedarse a vivir aquí, en el páramo de piedrainerte y comenzaron a edificar y vender sus servicios y habilidades. La existencia de la leyenda de “quien domine la montaña, dominará el mundo”, ha sido un acicate más que importante para que muchos aventureros de diversas nacionalidades, culturas y motivaciones pasen por estas tierras dejando su huella. Algunas de las civilizaciones anteriores poseyeron la montaña y pudieron ser los que crearon un asentamiento anterior al actual. Los tres edificios antiguos y de diferente hechura es un dato a tener en cuenta.
+Cuando la Montaña empezó a atraer aventureros, estos acudían al pueblo en busca de lo que la biblioteca pudiera saber de ella y de los cuidados del templo para sus heridas. Algunos de los que volvieron decidieron quedarse en la loma, construyeron sus casas y empezaron a vender sus servicios. La leyenda de que "_quien domine la Montaña, dominará el mundo_" ha seguido trayendo gentes de todas partes, y muchas han dejado aquí su huella.
 
-Actualmente el asentamiento, que inicialmente no era más que un grupo de tiendas de campaña alrededor del tempo, se ha convertido en un poblado estable con más de veinte casas, doce familias viviendo en Piedrainerte, la presencia de una posada o fonda, taberna, almacén y herrería, la existencia de una figura de poder legal y sus peculiaridades.
+Lo que al principio no era más que un puñado de tiendas de campaña alrededor del templo es hoy un pueblo estable de más de veinte casas y una docena de familias, con fonda, taberna, almacén, herrería y una autoridad que imparte justicia.
 
-## Sistema Monetario
+## La moneda
 
-Si bien las monedas de metales preciosos son vistas dentro del pueblo, es entre los forasteros y en sus intercambios donde se utilizan porque los piedrainerteños no utilizan ni aceptan monedas, sino que utilizan lingotes de oro, plata y cobre puros para sus transacciones. Estos lingotes son de 2, 4 y 12 onzas de peso. La decisión de eliminar las monedas se asentó hace bastante y es uno de los mitos del pueblo, en el que se habla de un secuestro del comercio por un huraño vendedor que fue capaz de hacerse con todos los negocios y él disponía del valor de las monedas según sus apetencias y necesidades. La realidad fue que tras un intento de estafa bastante grande por un extranjero, un juez decidió eliminar esa posibilidad haciendo que se utilizase solo metal puro, la otra razón está olvidad de la mente colectiva y se relaciona con las monedas embrujadas y Fistandanfi, pero actualmente el viejo hombre no es capaz de decir nada. Por ello, todo el que quiera hacerse con objetos o servicios dentro del pueblo ha de fundir sus monedas porque no realizan trueque ni cambio de moneda. La persona encargada de realizar esta tarea y es el herrero del pueblo, el cual lo hace de forma desinteresada y sin cobrar ningún tipo de cargo ni extra. El coste ya se le paga en forma de impuesto recaudado cada cierto tiempo. Por tanto, cualquier Pj deberá decidir cuanta moneda quiere fundir y el DJ será el que determinará cuanta cantidad de impureza tiene y cuanto recibe para poder hacer las compras y pagos.
+En Piedrainerte se ven monedas, pero solo entre forasteros. Los piedrainerteños no las aceptan: comercian con lingotes de oro, plata y cobre puros, de 2, 4 y 12 onzas de peso.
+
+En el pueblo se cuenta que la costumbre viene de un comerciante huraño que llegó a controlar todos los negocios y fijaba el valor de las monedas a su antojo. Lo cierto es que, tras un intento de estafa de un forastero, un juez decidió que solo se aceptaría metal puro. Hubo otra razón, relacionada con unas monedas embrujadas y con Feldric, pero el pueblo la ha olvidado y el viejo no está en condiciones de recordarla.
+
+Quien quiera comprar algo o pagar un servicio tiene que fundir antes sus monedas, porque en el pueblo no se hace trueque ni se cambia moneda. Se encarga el herrero, que no cobra por ello: su trabajo se paga con el impuesto que el pueblo recauda de vez en cuando. Cada PJ decide cuántas monedas funde, y el DJ determina cuánta impureza contienen y cuánto metal puro recibe a cambio.
 
 ## Las seis casas
 
-La segunda peculiaridad que tiene este pueblo está relacionada con varias casas que hay completamente deshabitadas pero mantenidas de forma impecable. Dentro del los límites de Piedrainerte debe existir al menos seis casas sin habitantes habituales en ellas pero completamente preparadas para poder vivir en cualquier momento. Si en algún momento se da la situación de que alguien se instala en una de estas casas de forma permanente, haciendo que se reduzca la cantidad de casas libres a cinco o menos, entonces se activa una maldición que recae sobre el pueblo desde casi el día que se comenzó a construir.
-Esta maldición hace que cualquiera que quiera construir una casa fuera del perímetro del pueblo, marcado con unos pequeños hitos negros, no consiga terminarla nunca, porque hay problemas con las materias primas, la madera se pudre demasiado rápido, la piedra se rompe, la casa se cae si razón aparente, se llena de vegetación en muy poco tiempo... cualquier cosa. Esto hace que el espacio dentro del perímetro se haya ido reduciendo y actualmente no es posible construir nada nuevo. Si se llega a activar la maldición, lo que ocurre es que en la noche de la activación, aparece una columna de humo negro que se mueve muy rápido por el pueblo y entra en una casa, aparentemente al azar, y se lleva a todos sus habitantes.
+Dentro de los hitos debe haber siempre al menos seis casas sin habitantes, limpias y preparadas para que alguien pueda vivir en ellas en cualquier momento. Es la norma más antigua del pueblo y nadie la discute.
 
-Para poder llegar a decir que una de las casas vacías está siendo habitada, han de pasar más de cuatro días seguidos viviendo en ella, además de deshacer el petate y dejar cosas dentro. Con dejar el propio petate dentro, la maldición se puede activar. Esto es bien conocido por los piedrainerteños y actualmente hay seis casas deshabitadas, pero no quieren llegar a tener problemas con la maldición y eso hace que el alguacil sea especialmente adusto con los forasteros y todos los habitantes inviten a vivir fuera del pueblo a los aventureros que quieran asentarse mientras estén explorando la montaña y siempre que la posada esté llena. No suelen dejar vivir a nadie dentro de las casas deshabitadas a no ser que lo acepten ellos.
+Todos saben lo que ocurre si se rompe. Basta con que alguien haga hogar en una de ellas, es decir, que viva allí más de cuatro días seguidos o que deshaga su petate y deje dentro sus cosas, para que esa misma noche los habitantes de una casa del pueblo, elegida en apariencia al azar, no despierten. Por la mañana los encuentran en sus camas, sin una herida, y las paredes de la casa cubiertas de hollín. Los piedrainerteños lo llaman la maldición.
 
-## Casas y edificios
+Por eso el alguacil es especialmente seco con los forasteros, y todo el pueblo invita a los aventureros que quieren quedarse, cuando la fonda está llena, a acampar fuera de los hitos. Nadie vive en las seis casas sin el permiso expreso del pueblo.
 
-::: striped
-| Mapa | Edificio | Quién vive o lo regenta |
-|:--:|:--|:--|
-| 1 | Templo | Hermano Tom |
-| 2 | Gran Fonda | Kipi y Kape |
-| 3 | Cárcel | Hernest (alguacil) |
-| 4 | Hierbas y Pócimas (herbolario) | Fistandanfi |
-| 5 | La Carreta Rota (almacén) | Arcenas |
-| 6 | Herrería | Filint, que vive en ella |
-| 7 | Las seis casas deshabitadas | Nadie |
-| 8 | Vieja posada | — |
-| 9 | Taberna | Freddy |
-| 10 | Torre-biblioteca | Cerrada |
-| a | Casa | Los Etnam, familia de medianos |
-| b | Casa | Los Farrow |
-| c | Casa | Hernest y Hemin Guay |
-| d | Casa | Fistandanfi |
-| e | Casa | Arcenas |
-| f | Mansión | Eyvilin |
-| g | Casa | Los Pitete |
-| h | Casa | Julay |
-| i | Casa | Hermano Tom |
-| j | Casa | Freddy |
-:::
+Hay otra cosa que los forasteros no tardan en descubrir: más allá de los hitos no se puede construir. La loma, asentada sobre roca sólida, tiene el espacio justo para el pueblo, sus arboledas y su matorral, y los hitos marcan dónde termina la roca. Fuera, la turbera no sostiene unos cimientos; las casas se hunden, la madera se pudre con la humedad y la piedra se agrieta con las heladas. Por eso el pueblo no puede crecer. Muchos forasteros lo atribuyen también a la maldición, y los piedrainerteños no se molestan en corregirlos.
+
+La verdad sobre las seis casas se explica más abajo, en la descripción de Ozrakhul.
+
+::: striped span-2
+| Mapa | Edificio                       | Quién vive o lo regenta                |
+|:----:|:-------------------------------|:---------------------------------------|
+|  1   | Templo                         | Hermano Tobin                          |
+|  2   | Gran Fonda                     | Kellan y Korin                         |
+|  3   | Casa de justicia               | Hemric Vale (juez) y Harlan (alguacil) |
+|  4   | Hierbas y Pócimas (herbolario) | Feldric                                |
+|  5   | La Carreta Rota (almacén)      | Arvel                                  |
+|  6   | Herrería                       | Fargrim, que vive en ella              |
+|  7   | Las seis casas deshabitadas    | Nadie                                  |
+|  8   | Vieja posada                   | —                                      |
+|  9   | Taberna                        | Fenn                                   |
+|  10  | Torre-biblioteca               | Cerrada                                |
+|  a   | Casa                           | Los Etnam, familia de medianos         |
+|  b   | Casa                           | Los Farrow                             |
+|  c   | Casa                           | Harlan y Hemric Vale                   |
+|  d   | Casa                           | Feldric                                |
+|  e   | Casa                           | Arvel                                  |
+|  f   | Mansión                        | Eldrin                                 |
+|  g   | Casa                           | Los Pell                               |
+|  h   | Casa                           | Jessa                                  |
+|  i   | Casa                           | Hermano Tobin                          |
+|  j   | Casa                           | Fenn                                   |
 
 Los puntos negros que rodean el pueblo en el mapa son los hitos que marcan su perímetro.
+:::
 
 ## El pueblo
 
-Y en torno al eje formado por estos dos edificios y la nueva fonda (2), se distribuye todo el pueblo.
+El pueblo se ordena en torno a un eje que va del templo (1) a la torre-biblioteca (10), en el centro, y de allí a la nueva fonda (2), al suroeste.
 
-En la parte norte de este eje, se puede ver un conjunto de dos edificios con un patio amurallado, es la Cárcel (3), el lugar donde se recluyen a los reos y se imparte justicia. Detrás de estos edificios se encuentran las seis casas deshabitadas (7), en perfecto estado y cerca está a vieja posada (8). Al lado del templo y cercano a la salida del pueblo por el este hay una casa grande, es el herbolario (4), la tienda de pócimas y hiervas donde hay ungüentos, cataplasmas, pócimas y pastelitos que sirven para prácticamente toda dolencia.
+Al norte de ese eje están los dos edificios y el patio amurallado de la casa de justicia (3), donde el juez resuelve los pleitos del pueblo y de las tierras de alrededor. Tiene un pequeño calabozo para los asuntos menores: borrachos, peleas y algún ladrón de poca monta. Junto a ella, fuera del patio, está el pozo del que bebe todo el pueblo. Detrás de la casa de justicia se encuentran las seis casas deshabitadas (7), cinco de ellas alrededor de una sexta, todas en perfecto estado, y cerca de ellas la vieja posada (8).
 
-Pasando una zona residencial al sureste de la biblioteca, entre ésta y la nueva fonda, se puede encontrar el almacén (5) y la herrería (6), dos lugares muy frecuentados tanto por forasteros como por piedraineteños. En estos dos edificios se pueden comprar muchas cosas y conseguir el oro necesario para dichas compras.
+Junto al templo, cerca del sendero que sale del pueblo hacia el este, se alza una casa grande: el herbolario de Feldric (4), donde se venden ungüentos, cataplasmas, pócimas y pastelillos para casi cualquier dolencia.
 
-## PNJs
+Al sureste de la biblioteca, pasada una zona de viviendas y camino de la fonda, están el almacén (5) y la herrería (6), los lugares más frecuentados por forasteros y vecinos. Allí se puede comprar casi de todo y conseguir el metal necesario para pagarlo. La taberna (9) queda al oeste, entre las casas.
 
-### Fistandanfi (Mago nivel 16)
+## Personajes
 
-Es un anciano bastante olvidadizo que lleva en el pueblo desde hace mucho, de hecho, todos los habitantes lo recuerdan como un anciano y nadie sabría decir si hubo alguien antes de él en Piedrainerte.
+### Feldric (mago de nivel 7)
 
-Se le puede ver siempre a la misma hora haciendo lo mismo: al amanecer, sale de su casa (d) y con paso rápido se presenta en las puertas de la biblioteca, las mira y vuelve a casa circunspecto. Al anochecer sale del Hiervas y Pócimas, su tienda herbolaria, y deja el pueblo por el camino del norte hasta llegar a la torre mística, la mira y vuelve sin decir nada. Por lo demás, en el pueblo se le conoce por sus pócimas, elixires y de vez en cuando, por sus explosiones. Es muy despistado y se hace muy difícil mantener una conversación coherente con él que dure más allá de los cinco minutos. Todos los habitantes lo ven como un viejo escéntrico al que el encantan sus plantitas y que suele ser generoso con los precios de los preparados que tiene.
+Es un anciano olvidadizo que vive en el pueblo desde siempre: todos los vecinos lo recuerdan ya viejo, y nadie sabría decir si hubo alguien en Piedrainerte antes que él.
 
-Tiene un secreto y es que este pobre hombre es en realidad el último guardián del Códice Rojo y debe protegerlo de las codiciosas manos de Oculuck, un demonio encarnado y encadenado en el cuerpo de un hombre, el místico. Actualmente la lucha está en un ínterin porque se firmó un pacto entre la Orden de los Magos carmesíes y Oculuck. En ese pacto, Fistandanfi está obligado a llevar una persea maldita que hace que no pueda centrar su mente en cualquier pensamiento durante mucho tiempo. Solo hay una situación en la que la persea deja de ejercer su efecto y es cuando se activa la maldición. Entonces Fistandanfi retoma el control de sus pensamientos y sus poderes, vuelve a ser consciente de quién es y de su obligación y centra todo su poder en controlar la acción de Oculuck, que consiste en llevarse el libro de la biblioteca. A cambio de ese control y desgaste, Oculuck, cuando vuelve a su cárcel, se lleva consigo todos los habitantes de la casa que elija.
+Sus costumbres son invariables. Al amanecer sale de su casa (d), se planta con paso rápido ante las puertas de la biblioteca, las mira y vuelve a casa pensativo. Al anochecer cierra su herbolario, Hierbas y Pócimas, y da una vuelta despacio alrededor de las seis casas antes de recogerse. Se le conoce por sus pócimas y elixires, y de vez en cuando por alguna explosión. Es muy despistado, y mantener con él una conversación coherente durante más de cinco minutos es casi imposible. Los vecinos lo tienen por un viejo excéntrico, aficionado a sus plantas y generoso con los precios.
 
-### Hermano Tom (Clérigo nivel 7)
+**Secreto.** Feldric es el último guardián de la Orden de los Magos Carmesíes. Sostiene con su propia mente el sello que mantiene encerrado a Ozrakhul bajo las seis casas, y la unión con el sello la lleva colgada al cuello: una presea de plata que nunca se quita. Sostenerlo le ha ido consumiendo la cabeza; de ahí sus despistes. Custodia además el Códice Rojo, guardado en la torre-biblioteca, que contiene lo necesario para deshacer el encierro del demonio.
 
-Es un hombre de alrededor cuarenta y cinco años, con aspecto cansado y bonachón. Se puede decir que fue el primer habitante de esta última época de Piedrainerte, si exceptuamos a Fistandanfi.
+Cuando alguien hace hogar en una de las seis casas, el sello se debilita, la unión se suelta y Feldric recupera de golpe la lucidez y todo su poder. Pasa la noche conteniendo al demonio, que intenta llegar hasta el Códice, y al amanecer el sello vuelve a cerrarse y el viejo vuelve a ser el de siempre. Su paseo de cada anochecer alrededor de las seis casas es lo único que queda de su vigilancia consciente: él mismo no sabría explicar por qué lo hace.
 
-Es un clérigo legal bueno que además tiene una forma de pensar muy ingenua, tanto que sus convecinos, con cariño o sorna, depende del vecino, le llaman el “legal-tonto” del pueblo. No niega nada a nadie, busca siempre arreglarlo todo por las buenas, es pacifista y se niega en redondo a que exista cualquier tipo de violencia en su casa (i) o en el tempo que lleva. Como posesiones personales tiene muy pocas cosas pero una de ellas está impregnada de su santidad, convirtiéndose asi en un talismán muy potente, tanto que cuando se activa la maldición del pueblo, el humo negro nunca toca su casa o el tempo, según donde se encuentre el y es su símbolo sagrado, tallado en madera.
+::: monster
+**Feldric** (mago humano de nivel 7, disposición ley/bien)
+**PG** 17 · **CA** 10 [9] · **Movimiento** 9 metros · **Bonificador al ataque** +2
+**Atributos principales** inteligencia, sabiduría y constitución
+**Atributos destacados** inteligencia 18, sabiduría 15
+**Armas** bastón y daga; no lleva armadura
+**Conjuros por día** nivel 0: 5 · 1.º: 5 · 2.º: 4 · 3.º: 3 · 4.º: 1
+**Conjuros habituales** luz, reparar, mensaje, descubrir veneno, prestidigitación; identificar, comprensión, leer escritura arcana, sueño, proyectil del mago; localizar objeto, ver lo invisible, discernir pensamientos, levitar; disipar magia, círculo mágico, inmovilizar humanoide; globo menor de protección contra conjuros
+**Equipo** presea de plata, libro de conjuros, hierbas y frascos de su herbolario
+**El sello** mientras el sello está cerrado, Feldric no prepara conjuros por encima del nivel 0. La noche en que el sello se debilita recupera la ficha completa.
+:::
 
-El lado oscuro de Tom es que anteriormente fue un inquisidor militante de un dios diferente al que actualmente profesa fe y más beligerante, tanto como que mandó a la hoguera a muchos seguidores de su dios actual y eso ha hecho que haya muchos familiares de los ajusticiados que quieran su cabeza. Su conversión es otra historia pero, tras abrazar su nueva fe, adquirió una penitencia que fue instalarse en Piedrainerte y fundar una misión, cosa que lleva haciendo desde entonces.
+<!-- Ficha comprobada con el Players Handbook de Castles & Crusades (PDF, numeración impresa):
+- Mago: dado de golpe d4 por nivel hasta el 10; bonificador al ataque +2 a nivel 7; armas: club, dagger, dart, staff; sin armadura (págs. 74-75). PG 17 = media de 7d4 (17,5), constitución sin modificador.
+- Conjuros por día a nivel 7: 5/4/3/2/1; inteligencia 18-19 añade uno de 1.º, 2.º y 3.º, acumulativos (págs. 76-77).
+- Las capacidades del mago a partir del nivel 13 (detectar magia, contraconjuro...) no aplican a nivel 7 (págs. 77-78).
+- Humanos: tres atributos principales, uno fijado por la clase (págs. 14-15). Modificadores: 13-15 +1, 16-17 +2, 18-19 +3 (pág. 14).
+- PG: dado de clase + modificador de constitución por nivel (págs. 12 y 15). CA base 10 (pág. 251). Movimiento humano 30 pies (pág. 96), 9 metros con la equivalencia de 1,5 m por cada 5 pies.
+- Disposición en formato primaria/secundaria, p. ej. law/good (págs. 98-99).
+- Conjuros (nombre original, nivel de mago): Light 0, Mending 0, Message 0, Discover Poison 0, Prestidigitation 0; Identify 1, Comprehension 1, Read Arcane Script 1, Sleep 1, Magi's Missile 1; Locate Item 2, See Invisible 2, Discern Thoughts 2, Levitate 2; Dispel Magic 3, Magic Circle 3, Hold Humanoid 3; Minor Globe of Spell Protection 4 (lista de conjuros de mago, págs. 123-125, y descripciones).
+- Formato de la línea de estadísticas según los módulos de Troll Lord Games (Castle Zagyg: Dark Chateau).
+- "El sello" es una regla propia de esta aventura, no del reglamento.
+- Las traducciones de los nombres de conjuros son provisionales: sustituir por las de la edición española si se usa. -->
 
-### Hernest (Explorador nivel 9)
+### Hermano Tobin (clérigo de nivel 4)
 
-Este hombre, con una ostentosa cojera, es el alguacil de Piedrainerte y tiene como compañero un búho hembra con muy mala leche. Vive detrás de la cárcel (c) y es un hombre hosco que trata especialmente mal a los forasteros, invitándoles a pernoctar fuera del perímetro del pueblo en sus tiendas de campaña, arguyendo que en ese lugar el no tiene jurisdicción y pueden hacer lo que les plazca. Dentro del pueblo, Hernest es el “brazo armado” de la ley, es decir, es el que se encarga de las situaciones normales y comunes como trifulcas y broncas de poca monta que puedan haber. También es quien mantiente a los presos hasta que son llevados a la ciudad o son liberados.
+Tiene unos cuarenta y cinco años y un aspecto cansado y bonachón. Puede decirse que fue el primer habitante del pueblo en su época actual, si se exceptúa a Feldric.
 
-Su cojera es consecuencia de un accidente tonto, pero a todo el mundo le ha contado que fue en los niveles superiores de la Montaña. Por ser el alguacil, pocos se atreven a contradecirle, él lo sabe y más de uno ha pasado la noche en el calabozo por contrariar a Hernest. La realidad es que nunca ha estado en la Montaña, aunque conoce los caminos que llevan a ella bastante bien Hernest no es amigo ni se siente obligado por nadie, excepto por su jefe y superior, el paladín Hemin.
+Es un clérigo bondadoso y tan ingenuo que sus vecinos, unos con cariño y otros con sorna, lo tienen por un alma cándida. No niega nada a nadie, siempre busca arreglarlo todo por las buenas y se niega en redondo a que haya violencia en su casa (i) o en el templo que atiende. Tiene muy pocas posesiones, pero una de ellas, su símbolo sagrado tallado en madera, está tan impregnada de su santidad que la maldición nunca alcanza su casa ni el templo mientras él esté dentro.
 
-### Hemin Guay (Paladín caído nivel 7)
+**Secreto.** Antes de convertirse fue inquisidor de otro dios, más beligerante, y mandó a la hoguera a muchos fieles de su fe actual. Muchos familiares de aquellos ajusticiados quieren su cabeza. Tras su conversión aceptó como penitencia instalarse en Piedrainerte y fundar una misión, y en ello sigue.
 
-Antes de asentarse en Piedrainerte, Henin era un joven paladín, un defensor de la fe con misiones de protección de personas y lugares. Poco antes de llegar a la Montaña, tubo una flaqueza y falló en su misión, lo que hizo que se le impusiese una penitencia. En su último destino como guardián, fue seducido y delante de sus narices le robaron una reliquia importante de la iglesia a la que pertenecía. Su dios lo puso en el punto de mira y le ordenó que se uniese a una expedición que iba a la Montaña soberana para recuperar la reliquia robada (que actualmente se encuentra en la sala 15 del nivel 5 de la montaña). Esta reliquia es un collar de plata. El asalto a la montaña fue un fracaso y además Henin desoyó el mandato de su dios, de forma que se le fue retirada la gracia divina hasta que purgue completamente todos sus pecados. Actualmente lleva viviendo en Piedrainerte cinco años, en la misma casa que el guardabosques (c). Es un hombre de 35 años que no tiene ninguna capacidad especial de paladín, pero dentro del pueblo se le considera una autoridad judicial. No es muy alto, empieza a tener serias entradas en su cabello y canas en la barba. Tiene a Hernest como ayudante e intenta volver al camino recto del que se alejó, trabajando por la comunidad pero con la visión de la justicia de su dios. Todos los habitantes del pueblo saben que no es un paladín, pero los forasteros no tienen por qué saberlo e intentan que así sea.
+### Harlan (explorador de nivel 3)
 
-Su parte oscura es que se ha obsesionado tanto con agradar a su dios que ha perdido el rumbo completamente y empieza a coquetear con fuerzas menos neutras y más oscuras, Dentro de su casa, (c), en una zona donde solo puede acceder él y que Hernest no conoce, hay un pequeño altar donde la figura que representa a su dios, está comenzando a cambiar sus facciones, está mutando.
+Es el alguacil de Piedrainerte, un hombre hosco con una cojera muy visible, al que acompaña siempre un búho hembra de pésimo carácter. Vive detrás de la casa de justicia, en la casa (c), y trata especialmente mal a los forasteros: los invita a pasar la noche en sus tiendas, fuera de los hitos, y les recuerda que allí él no tiene jurisdicción y pueden hacer lo que quieran. Dentro del pueblo es el brazo armado de la ley: se ocupa de las trifulcas y las peleas de poca monta, y mantiene a los presos hasta que se los llevan a la ciudad o quedan libres.
 
-### Kipi y Kape (Guerreros de nivel 4)
+Cuenta a todo el mundo que se quedó cojo en los niveles superiores de la Montaña. Pocos se atreven a contradecirle, y más de uno ha pasado la noche en el calabozo por intentarlo. Harlan no debe lealtad a nadie salvo a su superior, el juez Hemric Vale, con quien comparte casa.
 
-Son dos hombres de 30 años completamente iguales excepto en los criterios morales, de forma que siempre chocan cuando hay que tomar alguna decisión y terminan discutiendo, enfadados y al final resuelven la disputa mediante terceros o al azar, porque a golpes ya han visto demasiadas veces las celdas del pueblo.
+**Secreto.** Su cojera es fruto de un accidente estúpido. Nunca ha puesto un pie en la Montaña, aunque conoce bien los caminos que llevan hasta ella.
 
-Llegaron al pueblo con un grupo de aventureros y con permiso del paladín, se aposentaron en una de las casas vacías. Kipi y Kape siempre discutían y al final uno de ellos, Kipi, siempre pasaba la noche en otra casa, habiendo dejado su petate en ella, de forma que sin que los piedrainerteños lo supiesen y entendiesen (cosa que posteriormente entendió y se convirtió en un secreto de Kipi), la maldición se activó y ésta se cebó con la Gran Fonda, llevándose a la familia de Edgar Kunning y más de diez huéspedes que allí estaban. Después de esto, los gemelos se hicieron con la fonda tras llegar a un acuerdo entre ellos, cosa que no ha vuelto a ocurrir hasta el momento.
+### Hemric Vale (paladín caído de nivel 4)
 
-Desde entonces se encargan de dar techo, comida y bebida tanto a los del pueblo que lo necesiten como a forasteros. Casi todos los días tienen una bronca y siempre son por chorradas de forma que muchas veces esa bronca da lugar a una situación un tanto absurda y graciosa. Eso si, no se menten en broncas ajenas e intentan que dentro de la Gran Fonda no haya trifulca alguna, cosa en lo que son bastante eficientes.
+Hace años era un joven paladín, defensor de su fe, encargado de proteger personas y lugares. En su último destino como guardián se dejó seducir, y delante de sus narices robaron una reliquia de su iglesia, un collar de plata. Su dios le ordenó unirse a una expedición a la Montaña para recuperarla. El asalto fracasó, Hemric desoyó el mandato de su dios y perdió su gracia hasta que expíe por completo sus faltas.
 
-### Arcenas (Ladrón nivel 12)
+Lleva cinco años en Piedrainerte, en la misma casa que el alguacil (c). Tiene treinta y cinco años, no es muy alto, empieza a perder pelo y la barba le clarea de canas. No conserva ninguna de las capacidades de un paladín, pero el pueblo lo reconoce como autoridad judicial y se encarga de recaudar el impuesto. Intenta volver al buen camino trabajando por la comunidad según la justicia de su dios. Todos en el pueblo saben que ya no es un paladín, y procuran que los forasteros no lo sepan.
 
-Hombrecillo pequeño y delgado, vive en una pequeña casa (e) en frente del almacén que regenta, La Carreta rota. Ladrón a sueldo, ha decidido colgar las ganzúas y apartarse de la acción. Es un hombre honesto, en tanto en cuanto que valora adecuadamente los trabajos, tasa los objetos adecuadamente de forma que si hay algún error en la tasación, es por falta de información, no por mala fe. También es un hombre con un código de conducta en el que no asesina a nadie.
+**Secreto.** Su obsesión por recuperar el favor de su dios le ha hecho perder el rumbo. En una parte de la casa a la que solo entra él, y que Harlan no conoce, tiene un pequeño altar ante el que reza cada noche. Desde hace tiempo una voz confusa le habla en sueños y le promete la gracia perdida y la reliquia. Hemric cree que es su dios; es Ozrakhul. La figura del altar está cambiando poco a poco y sus facciones se parecen cada vez más a las del hombre de piel, pelo y ojos negros que ve en sueños.
 
-En su almacén, todo lo que hay tiene un precio correcto, compra cosas a su valor real y carga las ventas entre un 1 % y un 5 %. No pretende hacer dinero con el almacén porque realmente ya tiene suficiente y el almacén es su forma de vivir. En su casa tiene todo su equipo de ladrón guardado en un arcón y en otro baúl, con varias trampas y cerrajas hay un pergamino que describe cómo y dónde está escondido todo el tesoro que ha ido acumulando a lo largo de su carrera. También hay un pequeño cofre con un documento muy interesante. El lado oscuro de Arcenas es que nadie puede dejar el Gremio y una vez que entras, formas parte de él hasta la muerte y algunas veces, ni la muerte te salva. Y es que Arcenas ha abandonado el Gremio y ahora vive tranquilo en este pueblo, pero sabe muy bien que no puede estar con la guardia baja, por lo que mantiene un as en la manga para cuando el Gremio intente capturarlo y esclavizarlo. Es un conjunto de pergaminos, guardados en un cofre, que describen dónde está la sede del Gremio y cómo asaltar de forma segura la caja de caudales que hay en su interior. Además se ha encargado personalmente de que ellos sepan de la existencia de parte de este documento. Y ¿por qué ese cofre es su salvaguarda? Porque está encantado y si Arcenas muere o se distancia más de 5 kilómetros del cofre, el encantamiento se activa, desactivándose todas las defensas del baúl que lo contiene y teletrasportándose a un lugar que solo él conoce.
+Fue esa voz la que le sugirió que fuera generoso con los recién llegados y dejara a Kellan y Korin instalarse en una de las seis casas, lo que acabó en la desgracia de la Gran Fonda. Ozrakhul querrá servirse de él, y de su autoridad, para llegar al Códice Rojo o para librarse de Feldric: encarcelar al viejo con cualquier pretexto o autorizar que alguien ocupe otra de las casas.
 
-### Filint (Enano nivel 7)
+### Kellan y Korin (guerreros de nivel 2)
 
-Es un enano que lleva más de 12 años en el pueblo, llegó poco después que el hermano Tom y es su mejor amigo. Tolera las excentricidades de Fistandanfi y acepta a Hemin como la ley en el pueblo. Quizás es el que mejor acepta a los forasteros de todos los piedrainerteños y siempre tiene una jarra fresca de cerveza para cualquier cliente. Es el dueño y fundador de la herrería, además vive en ella.
+Son gemelos de unos treinta años, idénticos en todo salvo en su forma de entender lo que está bien y lo que está mal. Chocan cada vez que hay que tomar una decisión, discuten y acaban resolviendo sus disputas a suertes o con la mediación de alguien, porque a golpes ya han conocido demasiadas veces las celdas del pueblo.
 
-En realidad es el más tolerado y aceptado en el pueblo porque es el único capaz de crear la “moneda de cambio” que se utiliza en el pueblo. Es capaz de fundir metales en su fragua y separar el metal puro de las impurezas o de otros metales también fundidos y así crear lingotes de oro, plata y cobre puros. Es tremendamente honesto y no cobra por el trabajo. ¿Por qué? Porque la gente del pueblo le regala lo que el necesita o le dona la materia prima, que anteriormente ha sido rcaudado como impuesto por parte de Hemin.
+Llegaron con un grupo de aventureros y, con permiso del juez, se instalaron en una de las casas vacías. Discutían a diario, y después de cada pelea Kellan se iba a dormir a otra de las casas y dejaba allí su petate. Sin que nadie se diera cuenta, los gemelos habían ocupado dos casas, y la maldición cayó sobre la Gran Fonda: se llevó a la familia de su dueño, Edric Kell, y a más de diez huéspedes. Después de aquello los gemelos se quedaron con la fonda, en el único acuerdo al que han llegado nunca.
 
-Así, si algún forastero intenta llevarse algo por la fuerza, aunque sea un buen luchador, no suele hacer nada por impedirlo porque sabe que los piedrainerteños lo defenderán.
+Desde entonces dan techo, comida y bebida a los forasteros y a los vecinos que lo necesitan. Siguen discutiendo por cualquier nimiedad, pero no se meten en las peleas ajenas y consiguen que dentro de la Gran Fonda no haya trifulcas.
 
-### Eyvilin (Elfo nivel 9)
+**Secreto.** Kellan comprendió más tarde que la culpa fue suya, y lo calla. Lo que no sabe es que no fue casualidad: en aquellos días soñaba a menudo con las casas vacías, y algo en esos sueños lo empujaba hacia ellas.
 
-Es un elfo especialmente bien vestido, normalmente habla solo en élfico y su orgullo hace que sea difícil que acepte a cualquiera del pueblo como un igual. Vive en una mansión detrás del templo (f) y dentro de Piedrainerte no desempeña ningún papel relevante a parte de tocar y cantar en élfico en a taberna cuando le place, que suele ser casi siempre. Y no hace mas. Entre sus ropas siempre lleva un fajín carmesí bordado con símbolos élficos que procura disimular con sus vestiduras.
+### Arvel (ladrón de nivel 6)
 
-Realmente hace mucho más de lo que parece por la comunidad y es vigilar a Fistandanfi, que no le pase nada y que siga vivo. Al sufrir la maldición, muchas veces actúa como un niño pequeño y el ha de ser su niñera, cosa que no le agrada pero entiende la importancia de su trabajo y de la situación, por lo que actúa acorde a ello.
+Es un hombrecillo menudo y delgado que vive en una casa pequeña (e) no lejos del almacén que regenta, La Carreta Rota. Fue ladrón a sueldo y ha colgado las ganzúas. Es honesto a su manera: valora los trabajos y tasa los objetos con justicia, y si se equivoca es por falta de información, nunca por mala fe. Tiene además un código: no mata a nadie.
 
-### Místico (Demonio Oculuck)
+En su almacén todo tiene un precio justo. Compra a su valor real y vende con un recargo de entre el 1 % y el 5 %. No pretende enriquecerse; ya tiene suficiente, y el almacén es su forma de vida.
 
-Muy rara vez sale el místico de su torre, localizada al norte del pueblo, a pocos kilómetros de distancia. Es un hombre que aparenta 45 años, de tez negra, pelo negro y ojos negros. Dentro de sí está encarcelado el demonio Oculuck, el cual se encuentra ligado a su alma por un oscuro pacto. No tiene conciencia de sí mismo porque lleva demasiado con el demonio en su interior y Oculuck se ecarga de que así sea acallándola e incluso a veces, apagando por completo dicha conciencia y consciencia. Cuando se activa la maldición, Okuluck intenta recuperar el libro que lleva tanto tiempo buscando y como no lo consigue, el pacto firmado dice que puede llevarse las almas de una casa. Para ello, sale de la torre hacia el poblado en su forma real, la de un una columna de humo negro con relámpagos rojos en su interior. Si no fuera por la Orden, Oculuck se cobraría almas hasta saciarse pero la presencia de Fistandanfi y sus poderes, es suficiente para refrenarse. Esto no quita que cuando detecta a un grupo potente de aventureros en el pueblo, salga de su torre en forma humana a entrevistarse con ellos, normalmente para pedirles que eliminen al viejo loco, cosa que hasta el momento solo ha ocurrido dos veces y que ha sido frustrado tanto por los habitantes del pueblo como por Eyvilin.
+**Secreto.** Nadie abandona el Gremio: quien entra pertenece a él hasta la muerte, y a veces ni siquiera la muerte lo libra. Arvel lo ha dejado y sabe que no puede bajar la guardia. En su casa guarda en un arcón su equipo de ladrón, y en un baúl protegido por varias trampas y cerraduras, un pergamino que explica dónde y cómo escondió el tesoro de toda su carrera. En ese mismo baúl hay un cofre pequeño con su seguro: unos pergaminos que describen dónde está la sede del Gremio y cómo asaltar sin riesgo su caja de caudales. Se ha ocupado de que el Gremio sepa que existen. El cofre está encantado: si Arvel muere o se aleja más de 5 kilómetros de él, las defensas del baúl se desactivan y el cofre desaparece rumbo a un lugar que solo él conoce.
+
+### Fargrim (enano de nivel 3)
+
+Lleva más de doce años en el pueblo. Llegó poco después que el hermano Tobin y es su mejor amigo. Tolera las rarezas de Feldric y acepta a Hemric como la ley del pueblo. Es quizá el piedrainerteño que mejor recibe a los forasteros, y siempre tiene una jarra fresca de cerveza para quien entre en la herrería, que fundó y en la que vive.
+
+Es también el vecino más apreciado, porque es el único capaz de hacer la moneda del pueblo: funde los metales en su fragua, los separa de sus impurezas y de otros metales, y obtiene lingotes de oro, plata y cobre puros. Es extremadamente honrado y no cobra por su trabajo, porque el pueblo le da lo que necesita y le entrega la materia prima que Hemric recauda como impuesto.
+
+Si un forastero intenta llevarse algo por la fuerza, por buen luchador que sea, Fargrim no hace nada por impedirlo: sabe que el pueblo saldrá en su defensa.
+
+### Eldrin (elfo de nivel 5)
+
+Es un elfo muy bien vestido que casi siempre habla en élfico, y su orgullo le impide tratar como a un igual a nadie del pueblo. Vive en una mansión detrás del templo (f) y, en apariencia, su único papel en Piedrainerte es tocar y cantar en élfico en la taberna cuando le apetece, que es casi siempre. Bajo la ropa lleva un fajín carmesí bordado con símbolos élficos que procura que no se vea.
+
+**Secreto.** Eldrin es un agente de la Orden de los Magos Carmesíes, y su misión es que a Feldric no le pase nada. Con la mente nublada por el sello, el viejo se comporta a menudo como un niño, y Eldrin tiene que hacer de niñera. No le gusta, pero entiende lo que está en juego y cumple. Hasta ahora ha frustrado los dos intentos de acabar con el viejo.
+
+### Ozrakhul
+
+Ninguno de los vecinos de Piedrainerte lo ha visto nunca, y casi ninguno conoce su nombre.
+
+Hace siglos, la Orden de los Magos Carmesíes se enfrentó a un demonio al que no pudo destruir. Lo encerró por la fuerza en el cuerpo de un hombre, un cuerpo que desde entonces no envejece ni se corrompe, y lo enterró en una cámara excavada en la roca de la loma. Sobre la tumba levantó una casa, y alrededor otras cinco, cada una sobre una de las piedras del sello. Para protegerlas no puso guardias, sino una norma: esas casas no se habitan. El sello solo resiste mientras nadie haga hogar encima, y la maldición que todo el pueblo teme no es más que lo que ocurre cuando alguien lo hace.
+
+Ozrakhul no puede salir. Cuando el sello se debilita, empuja desde dentro durante una noche e intenta llegar hasta el Códice Rojo; antes de que Feldric vuelva a cerrarlo, se lleva las almas de los habitantes de una casa. Al amanecer solo quedan los cuerpos y el hollín.
+
+Lo que sí puede hacer, incluso con el sello entero, es hablar en sueños. Quien duerme cerca de las seis casas sueña a veces con un hombre de piel, pelo y ojos negros que habla de forma confusa y enigmática, mezclando promesas, ruegos y advertencias. Así empujó a Kellan hacia las casas vacías y así engaña a Hemric. Cuando detecta en el pueblo a un grupo de aventureros poderosos, se les aparece en sueños para convencerlos de que el viejo loco del herbolario es un peligro y deben acabar con él. Si el guardián muere, el sello queda sin quien lo sostenga.
 
 ## Familias
 
-Además de todos estos Pnjs, en las casas (a), (b), (g), (h) y (j), viven aventureros que se establecieron y ahí están como familias enteras. En (a) viven los Etnam, una familia de Medianos bastante tranquila y pacífica. En (b) viven los Farrow, una familia formada por dos guerreros que volvieron de la Montaña y decidieron asentarse. En (g) viven los Pitete, una familia que tiene ciertos problemas con los Farrow, cosas de terrenos. En (h) vive Julay, una mujer que da poca guerra y que se centra en trabajar como camarera en la taberna, llevada por Freddy, que vive en la (j), un ladronzuelo que ha entendido que es mejor ser tabernero que robabolsas en la ciudad.
+Además de estos personajes, en las casas (a), (b), (g), (h) y (j) viven antiguos aventureros que se establecieron en el pueblo, algunos con familias enteras. En (a) viven los Etnam, una familia de medianos tranquila y pacífica. En (b) viven los Farrow, una familia formada por dos guerreros que volvieron de la Montaña y decidieron quedarse. En (g) viven los Pell, que tienen pleitos de tierras con los Farrow. En (h) vive Jessa, una mujer callada que trabaja de camarera en la taberna. La taberna la lleva Fenn, que vive en (j): un antiguo ratero de ciudad que ha entendido que vive mejor como tabernero que como robabolsas.
