@@ -1,5 +1,9 @@
 # Registro de cambios
 
+- General
+
+  Los títulos de los capítulos ya no llevan el nombre del autor; la autoría de cada capítulo se recoge en el capítulo _Autoría_.
+
 - Prefacio
 
   Se ha añadido una nueva sección como prefacio a la segunda edición.

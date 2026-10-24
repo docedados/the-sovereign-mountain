@@ -1,5 +1,5 @@
 
-# Nivel 5: Hobgoblins y micónidos, por Carlos de la Cruz.
+# Nivel 5: Hobgoblins y micónidos
 
 Gran parte de la comida que se obtiene en la Montaña Soberana proviene del exterior, pagada como tributos de las gentes de la región a los Reyes de la Montaña. Sin embargo, ahora no existe un Rey, y los habitantes de la gran montaña deben apañarse como pueden. Una de las fuentes de alimento más fiables son los hongos que cultiva la XIIIª Legión de Kangg, una tribu hobgoblin. En realidad, la que cultivan sus esclavos micónidos (los hombres hongo).
 

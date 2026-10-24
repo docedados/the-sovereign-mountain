@@ -1,5 +1,5 @@
 
-# Nivel 4: Aire Irisado, por Erekíbeon
+# Nivel 4: Aire Irisado
 
 Este nivel fue hasta hace poco una especie de campo de experimentación sociológica. Decidido a encontrar la verdadera naturaleza de los seres inteligentes, el Hechicero del nivel 7 decidió crear un ambiente aislado y autosuficiente, poblarlo con seres inteligentes y observar qué pasaba. Su teoría era que el mal y la crueldad eran consecuencia ,en un primer momento, de la lucha diaria para cubrir las necesidades básicas y, posteriormente, de la educación que las sociedades, progenitores y dioses imprimían en los seres. Pero ¿qué pasaría si se quitaran todos esos factores externos? ¿Seguiría habiendo buenos y malos, crueldad y nobleza?
 

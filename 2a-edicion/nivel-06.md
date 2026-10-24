@@ -1,5 +1,5 @@
 
-# Nivel 6: El depósito del hechicero, por Jose Carlos Domínguez "Kha"
+# Nivel 6: El depósito del hechicero
 
 Este lugar era en otro tiempo (aunque técnicamente aún lo es) un enorme trastero: un hechicero (en concreto el mismo que diseñó el nivel 7) fue guardando sus cosas en las salas de este nivel: libros, arte, tesoro, restos de laboratorio, cadáveres... No obstante hace mucho, mucho tiempo que el hechicero no ha vuelto y todo está algo patas arriba, lo cual probablemente dificulte algo el saqueo.
 

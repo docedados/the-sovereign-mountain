@@ -1,5 +1,5 @@
 
-# Nivel 7: El laberinto de Kramaghar, por Héctor Prieto de la calle  
+# Nivel 7: El laberinto de Kramaghar
 
 Hace muchos, muchos años, un mago solitario se adentró en los peligros de la montaña para hacerse con el poder de la cima. Avanzó por los distintos niveles, superando los retos que se le imponían; su sabiduría y poder mágico eran los pilares de su éxito, pero también supusieron el origen de su GRAN fracaso.
 

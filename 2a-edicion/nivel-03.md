@@ -1,5 +1,5 @@
 
-# Nivel 3: El Dragón, por José Manuel Palacios
+# Nivel 3: El Dragón
 
 Hace muchos años, cuando la montaña era gobernada por el rey hechicero Azur I "El Loco", en este nivel se extendía un extenso jardín donde las concubinas reales pasaban el día ocupadas en telares, bañándose en cristalinas fuentes o gozando de dulces y manjares que los eunucos traían de las cocinas de los niveles inferiores. Azur apenas prestaba atención a estas mujeres, que eran colmadas de regalos y tenían una vida indolente, prisioneras en la jaula de oro de los hermosos jardines del serrallo.
 

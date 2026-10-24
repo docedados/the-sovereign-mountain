@@ -1,5 +1,5 @@
 
-# Nivel 8: La cripta del rey Ludovico, por Bester
+# Nivel 8: La cripta del rey Ludovico
 
 Un loco rey enano llamado Ludovico construyó en éste nivel su cripta. Décadas reinando en la Montaña habían acabado con su cordura y se embarcó en la construcción de un sepulcro que hiciese honor a su nombre por los siglos venideros. Allí albergaría sus tesoros protegidos por trampas y magia, lejos del alcance de las manos de los codiciosos aventureros.
 

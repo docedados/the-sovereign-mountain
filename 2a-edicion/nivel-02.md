@@ -1,5 +1,5 @@
 
-# Nivel 2: Sucios, sucios, sucios, por Jacobo Peña
+# Nivel 2: Sucios, sucios, sucios
 
 Las estancias descritas en este nivel nacieron de la buena voluntad de los habitantes del interior de la Montaña Soberana, aunque en la mayoría de los casos han derivado a lugares siniestros, peligrosos e insalubres; son, en realidad, un reflejo húmedo y podre de lo que ocurre en los niveles superiores. Algunas de estas salas suponen un intento por parte de algunos de los habitantes de la montaña de construir un alcantarillado a través del que canalizar las basuras, fluidos insanos y desechos biológicos que producían, de una forma ordenada. Pero la falta de uso, lo peligroso de algunos de esos desechos y el miedo a la presencia del terrible Limo Insidioso que se va extendiendo por la zona, han convertido las alcantarillas en lugares abandonados a su suerte. Muchas salas han sido destruidas o modificadas por la acción de los elementos y otras nuevas se han creado en accidentes derivados de la propia actividad de los habitantes de la montaña o por la abrasión las sustancias desechadas. 
 
