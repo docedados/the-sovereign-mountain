@@ -49,10 +49,10 @@ El nivel 2 se puede alcanzar desde muchos puntos de la Montaña y guarda alguna 
 ### Convenciones
 
 * **Abreviaturas**: DJ (director de juego), PJ (personaje jugador), PNJ (personaje no jugador), PG (puntos de golpe), DG (dados de golpe), CA (clase de armadura), TS (tirada de salvación) y PX (puntos de experiencia). Las siglas no cambian en plural: _los PJ_.
-* **Clase de armadura**: se da primero la CA ascendente de _Castles & Crusades_ y, entre corchetes, la descendente de los juegos clásicos: _CA 15 [4]_. Una se obtiene restando la otra de 19.
+* **Clase de armadura**: _Castles & Crusades_ usa la CA ascendente: cuanto más alta, mejor. Entre corchetes se da la descendente, de ediciones anteriores de D&D y de los retroclones que las siguen.
 * **Monedas**: mo (oro), mp (plata), mc (cobre) y me (electro).
 * **Dados**: 1d6 es un dado de seis caras y 2d6+1, dos dados de seis caras más uno. Una probabilidad de _1 en 1d6_ se resuelve tirando 1d6: ocurre si sale un 1.
-* **Tiempo**: un asalto dura 10 segundos y un turno, 10 minutos.
+* **Tiempo**: un asalto dura 10 segundos y un turno, 1 minuto (6 asaltos).
 * **Medidas**: en el sistema métrico. Las distancias del reglamento, que vienen en pies, se convierten a razón de 1,5 metros por cada 5 pies: un movimiento de 30 pies son 9 metros.
 
 ### Aviso sobre el contenido
@@ -130,6 +130,4 @@ _Esta sección se irá ampliando a medida que se revisen los niveles de la Monta
 
 <!-- Pendiente: en qué consisten las pruebas de las profundidades y qué ocurre si los personajes llegan a reinar. -->
 
-<!-- Pendiente: niveles de personaje recomendados por nivel de la Montaña. -->
-<!-- Pendiente: sistemas compatibles y notación de estadísticas. -->
 <!-- Pendiente: qué hay de cierto en las leyendas (requiere revisar el nivel 9). -->
