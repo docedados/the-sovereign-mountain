@@ -14,4 +14,4 @@
 
 - Piedrainerte
 
-  Se ha reescrito el capítulo. Las seis casas y la maldición tienen ahora un origen concreto: el demonio Ozrakhul, encerrado bajo la casa central. Desaparecen los pactos, el Místico y la torre. La imposibilidad de construir fuera de los hitos se explica por la turbera. Se han cambiado los nombres de casi todos los personajes y se ha añadido una tabla con los edificios del mapa. Se han rebajado los niveles de los personajes, la cárcel pasa a ser la casa de justicia y Feldric tiene ya su ficha para _Castles & Crusades_.
+  Se ha reescrito el capítulo. Las seis casas y la maldición tienen ahora un origen concreto: el demonio Ozrakhul, encerrado bajo la casa central. Desaparecen los pactos, el Místico y la torre. La imposibilidad de construir fuera de los hitos se explica por la turbera. Se han cambiado los nombres de casi todos los personajes y se ha añadido una tabla con los edificios del mapa. Se han rebajado los niveles de los personajes, la cárcel pasa a ser la casa de justicia y todos los personajes tienen ficha para _Castles & Crusades_.
